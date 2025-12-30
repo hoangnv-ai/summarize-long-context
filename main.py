@@ -2,8 +2,9 @@ from ner import *
 from semantic_chungking import *
 from agent import Agent
 from utils import *
+import time
 
-with open("./raw_text/25112025_recorrect.txt",
+with open("././raw_text/25112025_recorrect.txt",
           "r") as f:
     text = f.read()
 
@@ -22,18 +23,21 @@ chunker = SemanticNewsChunker(
 chunks = chunker.chunk(sample_text, verbose=True)
 system_prompt = load_prompt()
 
-
+# exit()
 previous_text = ""
 for i_chunk, chunk in enumerate(chunks):
     agent = Agent(system=system_prompt)
-    print(f"\n[Chunk {chunk['chunk_id']}] - {chunk['word_count']} từ, {chunk['sentence_count']} câu")
     print("-" * 80)
+    print(f"\n[Chunk {chunk['chunk_id']}] - {chunk['word_count']} từ, {chunk['sentence_count']} câu")
     if i_chunk == 0:
         chunk['previous_text'] = previous_text
         previous_text = chunk['text']
     else:
         chunk['previous_text'] = previous_text
         previous_text = chunk['text']
+
+    # if i_chunk != 46:
+    #     continue
 
     # Thực hiện trích xuất entity của từng chunk-------------------------------
     list_entity_name = get_entity_name(chunk['text'])
@@ -44,6 +48,11 @@ for i_chunk, chunk in enumerate(chunks):
     result = agent(chunk)
     chunk["summarize"] = result
 
+
+    if i_chunk%10==0:
+        time.sleep(10)
+    else:
+        time.sleep(1)
 print(f"\n\nTổng số chunks: {len(chunks)}")
 
 with open("./output/result.json", "w", encoding="utf-8") as f:

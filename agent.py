@@ -10,7 +10,7 @@ class Agent:
 
     def __call__(self, chunk):
         message = generate_prompt(chunk)
-        # print("message :", message)
+        print("message :", message)
         self.messages.append({"role": "user", "content": message})
         result = self.execute()
         return result
