@@ -20,7 +20,7 @@ class Agent:
         Streaming + trả về toàn bộ chuỗi sau khi hoàn tất.
         """
         stream = chat(
-            model='llama3.1:latest',
+            model='llama3.1:8b',
             messages=self.messages,
             options={
                 "temperature": 0,
