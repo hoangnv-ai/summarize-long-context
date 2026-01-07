@@ -19,6 +19,10 @@
         "label": "tên người"
       },
       {
+        "text": "miền Trung",
+        "label": "vị trí"
+      },
+      {
         "text": "Tổng Bí thư",
         "label": "tên người"
       },
@@ -28,10 +32,6 @@
       },
       {
         "text": "Thong-lun Xi-xu-lít",
-        "label": "tên người"
-      },
-      {
-        "text": "Tổng Bí thư",
         "label": "tên người"
       },
       {
@@ -71,7 +71,7 @@
         "label": "tên tổ chức"
       }
     ],
-    "summarize": "Bản tin thời sự tối nay thứ tư ngày 26 tháng 11 của Đài Truyền hình Việt Nam1 bắt đầu với lời chào và cảm ơn của người dẫn chương trình. Tại 19:00, bản tin sẽ trình chiếu các nội dung đáng chú ý sau đây:\n\nĐầu tiên, bản tin sẽ đề cập đến việc xây dựng diễn đàn kinh tế mùa thu tại thành phố Hồ Chí Minh, một nền tảng đối thoại chiến lược thường niên uy tín về đổi mới sáng tạo và phát triển bền vững. Thủ tướng Phạm Minh Chính đã đề xuất các hộ kinh doanh có doanh thu vượt ngưỡng miễn thuế sẽ được tính thuế trên phần lợi nhuận thay vì áp trên toàn bộ doanh thu như hiện nay.\n\nTiếp theo, bản tin sẽ thông tin về tình hình khó khăn của nhiều đồng bào miền Trung sau lũ, và kêu gọi sự chung tay hỗ trợ của cả nước để khắc phục hậu quả và sớm ổn định cuộc sống.\n\nSau đó, bản tin sẽ thông tin về chuyến thăm cấp nhà nước của đoàn đại biểu cấp cao Việt Nam tới Lào, dự lễ kỷ niệm 50 năm Quốc khánh nước Cộng hòa Dân chủ Nhân dân Lào, đồng chủ trì cuộc gặp cấp cao giữa Đảng Cộng sản Việt Nam và Đảng Nhân dân Cách mạng Lào từ ngày mùng 1 đến ngày mùng 2 tháng 12 năm.\n\nCuối cùng, bản tin sẽ thông tin về phiên thảo luận toàn thể của Quốc hội về dự thảo luật sửa đổi bổ sung một số điều của Luật Điều ước quốc tế, dự thảo nghị quyết về một số cơ chế chính sách đặc thù nhằm nâng cao hiệu quả công tác hội nhập quốc tế. Các đại biểu Quốc hội đã tán thành với sửa đổi bổ sung trong dự thảo luật nghị quyết về một số cơ chế chính sách đặc thù nhằm nâng cao hiệu quả công tác hội nhập quốc tế, và góp ý vào một số điều khoản cụ thể."
+    "summarize": "Bản tin thời sự tối nay thứ tư ngày 26 tháng 11 do Đài Truyền hình Việt Nam1 phát sóng lúc 19:00 có những nội dung đáng chú ý sau đây. Nhiều hộ kinh doanh có doanh thu vượt ngưỡng miễn thuế sẽ được tính thuế trên phần lợi nhuận thay vì áp trên toàn bộ doanh thu như hiện nay theo đề xuất của Thủ tướng Phạm Minh Chính tại diễn đàn kinh tế mùa thu lần thứ nhất năm 2025.\n\nBên cạnh đó, nhiều đồng bào miền Trung đang gặp vô vàn khó khăn sau lũ. Họ cần sự chung tay hỗ trợ của cả nước để khắc phục hậu quả và sớm ổn định cuộc sống. Tổng Bí thư Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam Tô Lâm sẽ thăm cấp nhà nước tới Lào cùng đoàn đại biểu cấp cao Việt Nam, dự lễ kỷ niệm 50 năm Quốc khánh nước Cộng hòa Dân chủ Nhân dân Lào.\n\nChiều nay dưới sự chủ trì của Chủ tịch Quốc hội Trần Thanh Mẫn, Quốc hội đã thảo luận phiên toàn thể về dự thảo luật sửa đổi bổ sung một số điều của Luật Điều ước quốc tế và dự thảo nghị quyết về một số cơ chế chính sách đặc thù nhằm nâng cao hiệu quả công tác hội nhập quốc tế. Các đại biểu tán thành với nội dung các dự thảo đã thể chế hóa được tinh thần Nghị quyết số 59 của Bộ Chính trị.\n\nTuy nhiên, một số đại biểu cũng góp ý vào một số điều khoản cụ thể cần quy định bắt buộc cho cơ quan đề xuất điều ước quốc tế nhiệm vụ giải trình."
   },
   {
     "chunk_id": 2,
@@ -81,7 +81,7 @@
     "previous_text": "BẢN TIN THỜI SỰ TỐI\nBây giờ là 19:00, xin kính chào và cảm ơn quý vị đang theo dõi bản tin thời sự buổi tối của Đài Truyền hình Việt Nam1. Bản tin thời sự tối nay thứ tư ngày 26 tháng 11 sẽ có những nội dung đáng chú ý sau đây: \nXây dựng diễn đàn kinh tế mùa thu tại thành phố Hồ Chí Minh trở thành một nền tảng đối thoại chiến lược thường niên uy tín tầm cỡ khu vực và quốc tế về đổi mới sáng tạo và phát triển bền vững. Chỉ đạo của Thủ tướng Phạm Minh Chính tại diễn đàn kinh tế mùa thu lần thứ nhất năm 2025 đề xuất các hộ kinh doanh có doanh thu vượt ngưỡng miễn thuế sẽ được tính thuế trên phần lợi nhuận thay vì áp trên toàn bộ doanh thu như hiện nay . Mất trắng sinh kế sau lũ, nhiều đồng bào miền Trung đang gặp vô vàn khó khăn và đang rất cần nhiều thêm nữa sự chung tay hỗ trợ của cả nước để khắc phục hậu quả, sớm ổn định cuộc sống . Kính thưa quý vị, nhận lời mời của Tổng Bí thư Ban Chấp hành Trung ương Đảng Nhân dân Cách mạng Lào, Chủ tịch nước Cộng hòa Dân chủ Nhân dân Lào Thong-lun Xi-xu-lít và phu nhân. Tổng Bí thư Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam Tô Lâm cùng phu nhân và đoàn đại biểu cấp cao Việt Nam sẽ thăm cấp nhà nước tới Lào, dự lễ kỷ niệm 50 năm Quốc khánh nước Cộng hòa Dân chủ Nhân dân Lào, đồng chủ trì cuộc gặp cấp cao giữa Đảng Cộng sản Việt Nam và Đảng Nhân dân Cách mạng Lào từ ngày mùng 1 đến ngày mùng 2 tháng 12 năm . Chiều nay dưới sự chủ trì của Chủ tịch Quốc hội Trần Thanh Mẫn, Quốc hội đã thảo luận phiên toàn thể cho ý kiến về dự thảo luật sửa đổi bổ sung một số điều của Luật Điều ước quốc tế, dự thảo nghị quyết về một số cơ chế chính sách đặc thù nhằm nâng cao hiệu quả công tác hội nhập quốc tế . Tán thành với sửa đổi bổ sung trong dự thảo luật nghị quyết về một số cơ chế chính sách đặc thù nhằm nâng cao hiệu quả công tác hội nhập quốc tế, các đại biểu Quốc hội cho rằng nội dung các dự thảo đã thể chế hóa được tinh thần Nghị quyết số 59 của Bộ Chính trị về hội nhập quốc tế trong tình hình mới . Góp ý vào một số điều khoản cụ thể, một số đại biểu cho rằng cần quy định bắt buộc các cơ quan đề xuất điều ước quốc tế nhiệm vụ giải trình .",
     "list_entity": [
       {
-        "text": "Chính phủ",
+        "text": "Thủ tướng Chính phủ",
         "label": "tên tổ chức"
       },
       {
@@ -105,7 +105,7 @@
         "label": "tên tổ chức"
       }
     ],
-    "summarize": "Tôi đề nghị xem xét bổ sung trách nhiệm phối hợp liên ngành và cơ chế giải trình bắt buộc để tránh tình trạng một số bộ ngành đề xuất điều ước nhưng chưa lượng hóa đầy đủ tác động đối với hệ thống pháp luật trong nước. Việc chế định thêm yêu cầu giải trình sẽ giúp nâng cao tính trách nhiệm và bảo đảm điều ước quốc tế được đàm phán trên nền tảng đánh giá đầy đủ tác động đến chính sách.\n\nĐại biểu đề nghị cần quy định chặt chẽ nội dung này đảm bảo tính khả thi, thống nhất trong thực hiện. Tôi kiến nghị sửa đổi bổ sung Điều 8 theo hướng cho phép áp dụng cơ chế xử lý nhanh linh hoạt để tháo gỡ kịp thời những khó khăn vướng mắc phát sinh trong quá trình thực hiện các dự án hợp tác trọng điểm chiến lược.\n\nTại phiên thảo luận, đại biểu đề nghị rút ngắn thời hạn áp dụng cơ chế đặc thù, đồng thời cho rằng bản chất của cơ chế đặc thù là trường hợp ngoại lệ của luật pháp. Việc kéo dài thời hạn áp dụng có khả năng dẫn đến rủi ro về tính thống nhất của hệ thống pháp luật.\n\nTôi kiến nghị Quốc hội cân nhắc điều chỉnh thời hạn áp dụng cơ chế đặc thù nghị quyết này đến giữa năm 2028 thay vì duy trì đến hết năm 2030 như dự thảo đang trình. Quốc hội đã thông qua Luật Dẫn độ, Luật Chuyển giao người đang chấp hành án phạt tù, Luật Tương trợ tư pháp về dân sự và Luật Tương trợ tư pháp về hình sự và thảo luận cho ý kiến vào dự án Luật Dự trữ quốc gia sửa đổi."
+    "summarize": "Tôi đề nghị xem xét bổ sung trách nhiệm phối hợp liên ngành và cơ chế giải trình bắt buộc nhằm tránh tình trạng một số bộ ngành đề xuất điều ước nhưng chưa lượng hóa đầy đủ tác động đối với hệ thống pháp luật trong nước. Đại biểu đã đưa ra kiến nghị sửa đổi Điều 8 theo hướng cho phép áp dụng cơ chế xử lý nhanh linh hoạt để tháo gỡ kịp thời những khó khăn vướng mắc phát sinh trong quá trình thực hiện các dự án hợp tác trọng điểm chiến lược.\n\nTuy nhiên, cũng có ý kiến đề nghị rút ngắn thời hạn áp dụng cơ chế đặc thù và cho rằng bản chất của cơ chế này là trường hợp ngoại lệ của luật pháp. Đại biểu cũng đã kiến nghị Quốc hội cân nhắc điều chỉnh thời hạn áp dụng cơ chế đặc thù nghị quyết này đến giữa năm 2028 thay vì duy trì đến hết năm 2030 như dự thảo đang trình.\n\nQuốc hội đã thông qua các Luật Dẫn độ, Chuyển giao người đang chấp hành án phạt tù, Tương trợ tư pháp về dân sự và Hình sự. Ngoài ra, Quốc hội cũng đã thảo luận cho ý kiến vào dự án Luật Dự trữ quốc gia sửa đổi. Tuy nhiên, vẫn còn những vướng mắc bất cập cần được xem xét.\n\nThủ tướng Chính phủ đề nghị xem xét bổ sung trách nhiệm phối hợp liên ngành và cơ chế giải trình bắt buộc nhằm tránh tình trạng một số bộ ngành đề xuất điều ước nhưng chưa lượng hóa đầy đủ tác động đối với hệ thống pháp luật trong nước. Thủ tướng Chính phủ cũng đã kiến nghị sửa đổi Điều 8 theo hướng cho phép áp dụng cơ chế xử lý nhanh linh hoạt để tháo gỡ kịp thời những khó khăn vướng mắc phát sinh trong quá trình thực hiện các dự án hợp tác trọng điểm chiến lược.\n\nTuy nhiên, vẫn còn một số vấn đề cần được Quốc hội xem xét và thảo luận thêm. Trong đó có ý kiến đề nghị rút ngắn thời hạn áp dụng cơ chế đặc thù và cho rằng bản chất của cơ chế này là trường hợp ngoại lệ của luật pháp."
   },
   {
     "chunk_id": 3,
@@ -143,7 +143,7 @@
         "label": "tên người"
       }
     ],
-    "summarize": "Thủ tướng Phạm Minh Chính đã chủ trì phiên họp trực tuyến lần thứ 23 của Ban Chỉ đạo quốc gia về chống khai thác hải sản bất hợp pháp, không báo cáo và không theo quy định (IUU) tại thành phố Hồ Chí Minh. Kết quả của phiên họp này cho thấy 100% số tàu đã được đăng ký cập nhật trên cơ sở dữ liệu nghề cá quốc gia và kết nối liên thông với phần mềm kiểm soát tàu cá của Bộ Quốc phòng, VNeID của Bộ Công an. Trong tuần qua, không có tàu cá vi phạm vùng biển nước ngoài bị bắt giữ. Các cơ quan cơ bản đã hoàn thành việc xử lý số vụ việc vi phạm mất kết nối VMS, vượt ranh giới cho phép khai thác đạt gần 100%. Thủ tướng Phạm Minh Chính đã ghi nhận những tiến bộ rõ rệt của các bộ ngành địa phương trong công tác chống khai thác IUU."
+    "summarize": "Thủ tướng Phạm Minh Chính đã chủ trì phiên họp trực tuyến lần thứ 23 của Ban Chỉ đạo quốc gia về chống khai thác hải sản bất hợp pháp, không báo cáo và không theo quy định (IUU) tại thành phố Hồ Chí Minh. Tính đến nay, công tác quản lý tàu cá và giám sát hoạt động khai thác có nhiều tiến triển tích cực với 100% số tàu được đăng ký cập nhật trên cơ sở dữ liệu nghề cá quốc gia và kết nối liên thông với phần mềm kiểm soát tàu cá của Bộ Quốc phòng và VNeID của Bộ Công an. Trong tuần qua không phát sinh trường hợp tàu vi phạm vùng biển nước ngoài bị bắt giữ, trong khi đó các cơ quan cơ bản đã hoàn thành việc xử lý số vụ việc vi phạm mất kết nối VMS đạt gần 100%. Thủ tướng ghi nhận những tiến bộ rõ rệt và yêu cầu tiếp tục thực hiện tốt nhiệm vụ trọng tâm."
   },
   {
     "chunk_id": 4,
@@ -152,6 +152,10 @@
     "sentence_count": 10,
     "previous_text": "Tối qua tại thành phố Hồ Chí Minh, Thủ tướng Phạm Minh Chính đã chủ trì phiên họp trực tuyến lần thứ 23 của Ban Chỉ đạo quốc gia về chống khai thác hải sản bất hợp pháp, không báo cáo và không theo quy định (IUU). Gần như đến nay thì 100% số tàu kể từ phiên họp thứ 22, công tác quản lý tàu cá và giám sát hoạt động khai thác có nhiều tiến triển tích cực . 100% tàu cá đã được đăng ký cập nhật trên cơ sở dữ liệu nghề cá quốc gia, kết nối liên thông với phần mềm kiểm soát tàu cá của Bộ Quốc phòng, VNeID của Bộ Công an . Trong tuần không phát sinh tàu cá vi phạm vùng biển nước ngoài bị bắt giữ . Đến nay các cơ quan cơ bản hoàn thành việc xử lý số vụ việc vi phạm mất kết nối VMS, vượt ranh giới cho phép khai thác đạt gần 100%. Phát biểu tại phiên họp, Thủ tướng Phạm Minh Chính ghi nhận những tiến bộ rõ rệt của các bộ ngành địa phương trong công tác chống khai thác IUU, tuần sau tốt hơn tuần trước, nhiều nhiệm vụ trọng tâm đã được hoàn thành theo đúng yêu cầu tiến độ .",
     "list_entity": [
+      {
+        "text": "5 địa phương",
+        "label": "vị trí"
+      },
       {
         "text": "Bộ Nông nghiệp và Phát triển nông thôn",
         "label": "tên tổ chức"
@@ -169,10 +173,6 @@
         "label": "tên tổ chức"
       },
       {
-        "text": "Thủ tướng",
-        "label": "tên người"
-      },
-      {
         "text": "Chính phủ",
         "label": "tên tổ chức"
       },
@@ -182,10 +182,6 @@
       },
       {
         "text": "Bộ Công an",
-        "label": "tên tổ chức"
-      },
-      {
-        "text": "VMS",
         "label": "tên tổ chức"
       },
       {
@@ -209,7 +205,7 @@
         "label": "tên tổ chức"
       }
     ],
-    "summarize": "Thủ tướng Phạm Minh Chính vừa phê bình 5 địa phương chưa hoàn thành việc xử lý vi phạm hành chính tồn đọng, mất kết nối VMS, vượt ranh giới khai thác. Ông yêu cầu phải xử lý dứt điểm trong tuần này. Thời gian tới, Thủ tướng yêu cầu các cơ quan cập nhật đầy đủ dữ liệu lên các cơ sở dữ liệu về nghề cá, về xử lý vi phạm hành chính trong lĩnh vực thủy sản, hệ thống giám sát tàu cá và truy xuất nguồn gốc thủy sản.\n\nBộ Nông nghiệp và Phát triển nông thôn sẽ chủ trì đánh giá toàn diện kết quả thực hiện kế hoạch hành động tháng cao điểm chống khai thác IUU, hoàn thiện kế hoạch đàm phán làm việc với đoàn thanh tra của Ủy ban Châu Âu (EC). Đồng thời, Bộ sẽ xử lý dứt điểm việc hoàn thiện hồ sơ truy xuất nguồn gốc dữ liệu nghề cá quốc gia trước ngày 30 tháng 1.\n\nThủ tướng giao Bộ Quốc phòng tiếp tục thực hiện cao điểm tuần tra kiểm soát tại vùng biển giáp ranh với các nước, kiểm soát tàu cá xuất nhập bến, xử lý nghiêm tàu cá không đủ điều kiện mà vẫn hoạt động. Bộ Công an tiếp tục chỉ đạo đẩy nhanh công tác điều tra củng cố hồ sơ để đưa ra truy tố xét xử các vụ việc đã khởi tố.\n\nCác tỉnh thành phố ven biển sẽ kiểm soát chặt chẽ toàn bộ tàu cá ra vào cảng, giám sát chặt chẽ tàu cá hoạt động trên biển 24/24 giờ qua hệ thống VMS, cảnh báo liên hệ kịp thời với chủ tàu thuyền trưởng đảm bảo không để phát sinh các vụ việc vi phạm mất kết nối VMS, vượt ranh giới cho phép khai thác.\n\nThủ tướng cũng yêu cầu các địa phương khẩn trương ban hành chính sách chuyển đổi nghề tạo sinh kế bền vững cho ngư dân, hoàn thành trước ngày 30 tháng 1."
+    "summarize": "Thủ tướng Chính phủ Phạm Minh Chính vừa phê bình 5 địa phương chưa xử lý dứt điểm vi phạm hành chính tồn đọng, mất kết nối VMS và yêu cầu họ hoàn thành việc này trong tuần này. Thời gian tới, Thủ tướng yêu cầu các cơ quan cập nhật đầy đủ dữ liệu lên hệ thống giám sát tàu cá và truy xuất nguồn gốc thủy sản.\n\nBộ Nông nghiệp và Phát triển nông thôn sẽ chủ trì đánh giá toàn diện kết quả thực hiện kế hoạch hành động chống khai thác IUU và hoàn thiện kế hoạch đàm phán với đoàn thanh tra của Ủy ban Châu Âu (EC). Đồng thời, Bộ sẽ xử lý dứt điểm việc hoàn thiện hồ sơ truy xuất nguồn gốc dữ liệu nghề cá quốc gia trước ngày 30 tháng 1.\n\nThủ tướng cũng giao Bộ Quốc phòng tiếp tục thực hiện cao điểm tuần tra kiểm soát tại vùng biển giáp ranh với các nước và Bộ Công an đẩy nhanh công tác điều tra để đưa ra truy tố xét xử các vụ việc đã khởi tố. Các tỉnh thành phố ven biển sẽ kiểm soát chặt chẽ tàu cá, giám sát hoạt động trên biển qua hệ thống VMS.\n\nThủ tướng yêu cầu khẩn trương ban hành chính sách chuyển đổi nghề tạo sinh kế bền vững cho ngư dân và hoàn thành trước ngày 30 tháng 1. Tại hội nghị toàn quốc công tác văn phòng Tỉnh ủy, Thành ủy năm 2025 do Văn phòng Trung ương Đảng tổ chức, đồng chí Trần Cẩm Tú đánh giá cao sự nỗ lực của các đơn vị trong hai năm qua.\n\nCác địa phương cần xử lý dứt điểm vi phạm hành chính tồn đọng và mất kết nối VMS. Bộ Nông nghiệp và Phát triển nông thôn sẽ chủ trì đánh giá kết quả thực hiện kế hoạch chống khai thác IUU và hoàn thiện hồ sơ truy xuất nguồn gốc dữ liệu nghề cá quốc gia trước ngày 30 tháng 1.\n\nThủ tướng giao Bộ Quốc phòng tuần tra kiểm soát tại vùng biển giáp ranh với các nước và Bộ Công an đẩy nhanh công tác điều tra để đưa ra truy tố xét xử. Các tỉnh thành phố ven biển sẽ kiểm soát chặt chẽ tàu cá, giám sát hoạt động trên biển qua hệ thống VMS.\n\nThủ tướng yêu cầu khẩn trương ban hành chính sách chuyển đổi nghề tạo sinh kế bền vững cho ngư dân và hoàn thành trước ngày 30 tháng 1."
   },
   {
     "chunk_id": 5,
@@ -219,7 +215,7 @@
     "previous_text": "Bên cạnh đó Thủ tướng phê bình 5 địa phương chưa hoàn thành việc xử lý vi phạm hành chính tồn đọng, mất kết nối VMS, vượt ranh giới khai thác; yêu cầu phải xử lý dứt điểm trong tuần này . Thời gian tới Thủ tướng yêu cầu các cơ quan cập nhật đầy đủ dữ liệu lên các cơ sở dữ liệu về nghề cá, về xử lý vi phạm hành chính trong lĩnh vực thủy sản, hệ thống giám sát tàu cá và truy xuất nguồn gốc thủy sản . Bộ Nông nghiệp và Phát triển nông thôn chủ trì đánh giá toàn diện kết quả thực hiện kế hoạch hành động tháng cao điểm chống khai thác IUU, hoàn thiện kế hoạch đàm phán làm việc với đoàn thanh tra của Ủy ban Châu Âu (EC). Thường xuyên giữ liên hệ trao đổi cung cấp đầy đủ thông tin với EC, kịp thời báo cáo Chính phủ, Thủ tướng Chính phủ những nội dung vượt thẩm quyền . Đồng thời xử lý dứt điểm việc hoàn thiện hồ sơ truy xuất nguồn gốc dữ liệu nghề cá quốc gia trước ngày 30 tháng 1. Thủ tướng giao Bộ Quốc phòng tiếp tục thực hiện cao điểm tuần tra kiểm soát tại vùng biển giáp ranh với các nước, kiểm soát tàu cá xuất nhập bến, xử lý nghiêm tàu cá không đủ điều kiện mà vẫn hoạt động . Bộ Công an tiếp tục chỉ đạo đẩy nhanh công tác điều tra củng cố hồ sơ để đưa ra truy tố xét xử các vụ việc đã khởi tố . Các tỉnh thành phố ven biển kiểm soát chặt chẽ toàn bộ tàu cá ra vào cảng, giám sát chặt chẽ tàu cá hoạt động trên biển 24/24 giờ qua hệ thống VMS, cảnh báo liên hệ kịp thời với chủ tàu thuyền trưởng đảm bảo không để phát sinh các vụ việc vi phạm mất kết nối VMS, vượt ranh giới cho phép khai thác . Thủ tướng Phạm Minh Chính cũng yêu cầu các địa phương khẩn trương ban hành chính sách chuyển đổi nghề tạo sinh kế bền vững cho ngư dân, hoàn thành trước ngày 30 tháng 1. Sáng nay chỉ đạo hội nghị toàn quốc công tác văn phòng Tỉnh ủy, Thành ủy năm 2025 do Văn phòng Trung ương Đảng tổ chức, đồng chí Trần Cẩm Tú, Ủy viên Bộ Chính trị, Thường trực Ban Bí thư đánh giá cao Văn phòng Trung ương Đảng và văn phòng các Tỉnh ủy, Thành ủy trong hơn hai năm qua đã tiếp tục đoàn kết, sáng tạo, tận tụy, khắc phục khó khăn, nỗ lực hoàn thành khối lượng công việc rất lớn với chất lượng hiệu quả ngày càng cao .",
     "list_entity": [
       {
-        "text": "Trần Cẩm Tú",
+        "text": "đồng chí Trần Cẩm Tú",
         "label": "tên người"
       },
       {
@@ -267,6 +263,10 @@
         "label": "tên người"
       },
       {
+        "text": "người ốm",
+        "label": "tên người"
+      },
+      {
         "text": "người dân",
         "label": "tên người"
       },
@@ -279,11 +279,15 @@
         "label": "tên người"
       },
       {
+        "text": "khu vực miền Trung",
+        "label": "vị trí"
+      },
+      {
         "text": "bão số 12, 13",
         "label": "tên sự kiện"
       }
     ],
-    "summarize": "Cùng với chỉ rõ những tồn tại hạn chế, đồng chí Trần Cẩm Tú đề nghị hệ thống văn phòng cấp ủy quán triệt ba định hướng lớn theo chỉ đạo của Tổng Bí thư Tô Lâm về số hóa toàn diện, thống nhất văn bản và hồ sơ công việc. Đồng chí Trần Cẩm Tú đề nghị Văn phòng Trung ương và các văn phòng Tỉnh ủy, Thành ủy tiếp tục bám sát các nghị quyết chỉ thị mới, tăng cường phối hợp chủ động tham mưu chiến lược, đổi mới phương thức quản lý, đẩy mạnh chuyển đổi số và chuẩn hóa quy trình.\n\nThủ tướng Chính phủ Phạm Minh Chính đã ký ban hành Nghị quyết 380 của Chính phủ về các giải pháp khắc phục hậu quả thiên tai, phục hồi sản xuất tại các địa phương khu vực miền Trung. Nghị quyết nhấn mạnh quan điểm ưu tiên cao nhất là bảo vệ tính mạng sức khỏe và sớm ổn định đời sống nhân dân. Triển khai công tác khắc phục với tinh thần chủ động, khẩn trương, kịp thời và hiệu quả; phát huy tính dân tộc nghĩa đồng bào, huy động sức mạnh tổng hợp của cả hệ thống chính trị, của toàn xã hội, cộng đồng doanh nghiệp và người dân.\n\nBảo đảm công tác cứu trợ hỗ trợ được thực hiện công khai minh bạch đúng đối tượng, tránh tiêu cực lãng phí; kết hợp chặt chẽ việc hỗ trợ khắc phục hậu quả với việc tái cơ cấu lại sản xuất, sắp xếp lại dân cư tại các khu vực nguy hiểm, chủ động khôi phục hạ tầng nâng cao năng lực chống chịu thích ứng bền vững với thiên tai. Phạm vi đối tượng hỗ trợ là người dân, người lao động, người yếu thế, hộ kinh doanh, hợp tác xã, doanh nghiệp tại các địa bàn của khu vực miền Trung bị ảnh hưởng bởi bão số 12, 13 và mưa lũ tháng 10, tháng 11 năm nay. Thời gian hỗ trợ từ nay đến hết ngày 31 tháng 1."
+    "summarize": "Tổng Bí thư Tô Lâm yêu cầu hệ thống văn phòng cấp ủy quán triệt ba định hướng lớn về số hóa, xây dựng kho dữ liệu chuẩn và phát triển năng lực số cho cán bộ. Đồng chí Trần Cẩm Tú đề nghị Văn phòng Trung ương và các văn phòng Tỉnh ủy, Thành ủy tiếp tục bám sát các nghị quyết chỉ thị mới.\n\nHôm qua, Thủ tướng Phạm Minh Chính đã ký ban hành Nghị quyết 380 của Chính phủ về giải pháp khắc phục hậu quả thiên tai tại khu vực miền Trung. Nghị quyết nhấn mạnh quan điểm ưu tiên cao nhất là bảo vệ tính mạng sức khỏe và sớm ổn định đời sống nhân dân. Không để ai thiếu chỗ ở, không để bị đói bị rét, không để học sinh thiếu trường lớp, không để người ốm thiếu chỗ chữa bệnh.\n\nTriển khai công tác khắc phục với tinh thần chủ động, khẩn trương, kịp thời và hiệu quả; phát huy tính dân tộc nghĩa đồng bào. Huy động sức mạnh tổng hợp của cả hệ thống chính trị, của toàn xã hội, cộng đồng doanh nghiệp và người dân. Bảo đảm công tác cứu trợ hỗ trợ được thực hiện công khai minh bạch đúng đối tượng.\n\nVề phạm vi đối tượng hỗ trợ là người dân, người lao động, người yếu thế tại khu vực miền Trung bị ảnh hưởng bởi bão số 12, 13 và mưa lũ tháng 10, tháng 11 năm nay. Thời gian hỗ trợ từ nay đến hết ngày 31 tháng 1.\n\nTổng Bí thư Tô Lâm, Đồng chí Trần Cẩm Tú, Văn phòng Trung ương, các văn phòng Tỉnh ủy, Thành ủy, Thủ tướng Phạm Minh Chính, Nghị quyết 380 của Chính phủ đều xuất hiện trong đoạn tóm tắt trên."
   },
   {
     "chunk_id": 6,
@@ -292,7 +296,7 @@
     "sentence_count": 1,
     "previous_text": "Cùng với chỉ rõ những tồn tại hạn chế, đồng chí Trần Cẩm Tú đề nghị hệ thống văn phòng cấp ủy quán triệt ba định hướng lớn theo chỉ đạo của Tổng Bí thư Tô Lâm về số hóa toàn diện, thống nhất văn bản và hồ sơ công việc; xây dựng kho dữ liệu chuẩn dùng chung bảo đảm bảo mật an toàn bền vững; chuẩn hóa quy trình rút ngắn thời gian xử lý, nâng cao độ chính xác; phát triển năng lực số cho cán bộ văn phòng, kết hợp chặt chẽ kỷ luật và sáng tạo . Đồng chí Trần Cẩm Tú đề nghị Văn phòng Trung ương và các văn phòng Tỉnh ủy, Thành ủy tiếp tục bám sát các nghị quyết chỉ thị mới, tăng cường phối hợp chủ động tham mưu chiến lược, đổi mới phương thức quản lý, đẩy mạnh chuyển đổi số và chuẩn hóa quy trình, xây dựng kho dữ liệu chuẩn, giữ vững nguyên tắc kỷ luật, đề cao trách nhiệm tác phong khoa học hiệu quả, trong đó Văn phòng Trung ương phải gương mẫu tiên phong . Thưa quý vị, hôm qua 25 tháng 11, Thủ tướng Chính phủ Phạm Minh Chính đã ký ban hành Nghị quyết 380 của Chính phủ về các giải pháp khắc phục hậu quả thiên tai, phục hồi sản xuất tại các địa phương khu vực miền Trung . Trong nghị quyết Chính phủ nhấn mạnh quan điểm ưu tiên cao nhất là bảo vệ tính mạng sức khỏe và sớm ổn định đời sống nhân dân: không để ai thiếu chỗ ở, không để ai bị đói bị rét, không để học sinh thiếu trường lớp, không để người ốm thiếu chỗ chữa bệnh và các dịch vụ thiết yếu liên quan . Triển khai công tác khắc phục với tinh thần chủ động, khẩn trương, kịp thời và hiệu quả; phát huy tính dân tộc nghĩa đồng bào, huy động sức mạnh tổng hợp của cả hệ thống chính trị, của toàn xã hội, cộng đồng doanh nghiệp và người dân . Bảo đảm công tác cứu trợ hỗ trợ được thực hiện công khai minh bạch đúng đối tượng, tránh tiêu cực lãng phí; kết hợp chặt chẽ việc hỗ trợ khắc phục hậu quả với việc tái cơ cấu lại sản xuất, sắp xếp lại dân cư tại các khu vực nguy hiểm, chủ động khôi phục hạ tầng nâng cao năng lực chống chịu thích ứng bền vững với thiên tai . Về phạm vi đối tượng hỗ trợ là người dân, người lao động, người yếu thế, hộ kinh doanh, hợp tác xã, doanh nghiệp tại các địa bàn của khu vực miền Trung bị ảnh hưởng bởi bão số 12, 13 và mưa lũ tháng 10, tháng 11 năm nay . Thời gian hỗ trợ từ nay đến hết ngày 31 tháng 1.",
     "list_entity": [],
-    "summarize": "Nghị quyết Chính phủ đã nêu rõ các nhóm nhiệm vụ giải pháp trọng tâm và giao nhiệm vụ cụ thể cho các bộ ngành địa phương liên quan đến các vấn đề bảo đảm an sinh xã hội, hỗ trợ lương thực thực phẩm, nhu yếu phẩm, hỗ trợ khẩn cấp về nhà ở, vệ sinh môi trường, phòng chống dịch bệnh, khôi phục hạ tầng thiết yếu y tế, giáo dục, giao thông, khôi phục sản xuất kinh doanh, ổn định thị trường."
+    "summarize": "Chính phủ đã nêu rõ các nhóm nhiệm vụ giải pháp trọng tâm bao gồm bảo đảm an sinh xã hội, hỗ trợ lương thực thực phẩm, nhu yếu phẩm và hỗ trợ khẩn cấp về nhà ở. Các bộ ngành địa phương liên quan sẽ thực hiện các nhiệm vụ cụ thể như vệ sinh môi trường, phòng chống dịch bệnh và khôi phục hạ tầng thiết yếu y tế.\n\n Entities xuất hiện: \n- Chính phủ\n- Bộ ngành địa phương"
   },
   {
     "chunk_id": 7,
@@ -318,6 +322,14 @@
         "label": "tên sự kiện"
       },
       {
+        "text": "sáu tỉnh miền Trung",
+        "label": "vị trí"
+      },
+      {
+        "text": "bão số 15",
+        "label": "tên sự kiện"
+      },
+      {
         "text": "Trên đất liền",
         "label": "vị trí"
       },
@@ -334,7 +346,7 @@
         "label": "vị trí"
       }
     ],
-    "summarize": "Thủ tướng Chính phủ Phạm Minh Chính đã ký ban hành công điện về việc triển khai các đợt thi đua cao điểm khắc phục khó khăn, tăng tốc bứt phá hoàn thành thắng lợi các mục tiêu nhiệm vụ năm 2025. Trong đó, Thủ tướng đề nghị các bộ ngành địa phương nhanh chóng ổn định tình hình nhân dân và khôi phục sinh kế cho người dân vùng bị bão lũ.\n\nPhó Thủ tướng Trần Hồng Hà đã chủ trì cuộc họp ứng phó với bão số 15, ảnh hưởng nghiêm trọng đến sáu tỉnh miền Trung. Dự báo, bão số 15 sẽ tồn tại lâu trên biển với cường độ mạnh nhất là cấp 10 cấp 11 giật cấp 14. Trên đất liền, dù mưa dự báo khoảng 50 đến 100 mm nhưng do đất đã ngậm no nước, nguy cơ tiếp tục sạt lở cao.\n\nCác địa phương cần đánh giá kỹ cấp độ thiên tai của những khu vực có hồ đập thủy điện và xem xét quy trình vận hành của các hồ. Nuôi trồng vốn là nghề chủ lực của hàng chục ngàn hộ nông dân khu vực Nam Trung Bộ, nhưng nhiều gia đình đã trắng tay vì cây con, lúa, vịt hay cả lúa giống đã bị trôi theo dòng nước lũ. Điều này đồng nghĩa với là sinh kế của đồng bào đã không còn."
+    "summarize": "Thủ tướng Chính phủ Phạm Minh Chính đã ký ban hành công điện về việc triển khai các đợt thi đua cao điểm khắc phục khó khăn, tăng tốc bứt phá hoàn thành thắng lợi các mục tiêu nhiệm vụ năm 2025. Trong đó, Thủ tướng đề nghị các bộ ngành địa phương nhanh chóng ổn định tình hình nhân dân và khôi phục sinh kế cho người dân vùng bị bão lũ trong thời gian sớm nhất có thể.\n\nPhó Thủ tướng Trần Hồng Hà đã chủ trì cuộc họp ứng phó với bão số 15 tại sáu tỉnh miền Trung vừa chịu ảnh hưởng bão lũ nghiêm trọng. Dự báo, bão số 15 sẽ tồn tại lâu khoảng 5 đến 6 ngày trên biển và trên đất liền dù mưa dự báo khoảng 50 đến 100 mm nhưng do đất đã ngậm no nước, nguy cơ tiếp tục sạt lở cao.\n\nCác địa phương cần đánh giá kỹ cấp độ thiên tai của những khu vực có hồ đập thủy điện và xem xét quy trình vận hành của các hồ. Sau bão đi qua, nhiều vùng nông thôn ở phía Đông của tỉnh Đắk Lắk đã bị ảnh hưởng nghiêm trọng với chuồng trống, vật nuôi chết và cả lúa vụ Hè Thu mới gặt giờ bán rẻ như cho.\n\nNgười dân tại Nam Trung Bộ cũng đang gặp khó khăn do nghề nuôi trồng vốn là chủ lực của hàng chục ngàn hộ nông dân trong khu vực. Nhiều gia đình đã trắng tay vì cây con, lúa, vịt hay cả lúa giống bị trôi theo dòng nước lũ. Điều này đồng nghĩa với sinh kế của người dân cũng không còn."
   },
   {
     "chunk_id": 8,
@@ -343,6 +355,14 @@
     "sentence_count": 15,
     "previous_text": "Trong sáng nay Thủ tướng Chính phủ Phạm Minh Chính đã ký ban hành công điện về khẩn trương triển khai các đợt thi đua cao điểm khắc phục khó khăn, tăng tốc bứt phá hoàn thành thắng lợi các mục tiêu nhiệm vụ năm 2025, tạo đào tạo lực cho những năm tiếp theo . Trong đó Thủ tướng đề nghị các bộ ngành địa phương nhanh chóng ổn định tình hình nhân dân và khôi phục sinh kế cho người dân vùng bị bão lũ trong thời gian sớm nhất có thể; đẩy mạnh phục hồi sản xuất kinh doanh thúc đẩy tăng trưởng kinh tế, phấn đấu tăng trưởng năm 2025 trên 8%. Cũng trong sáng nay Phó Thủ tướng Trần Hồng Hà đã chủ trì cuộc họp ứng phó với bão số 15 với sáu tỉnh miền Trung vừa chịu ảnh hưởng bão lũ nghiêm trọng . Dự báo là bão số 15 sẽ tồn tại lâu khoảng 5 đến 6 ngày trên biển với cường độ mạnh nhất là cấp 10 cấp 11 giật cấp 14, nên tàu thuyền ngay lập tức cần di chuyển đến vùng an toàn, không được chủ quan . Trên đất liền dù mưa dự báo khoảng 50 đến 100 mm không bằng đợt mưa lũ vừa qua nhưng do đất đã ngậm no nước, nguy cơ tiếp tục sạt lở cao. Rút kinh nghiệm trong ứng phó và phục hồi sau lũ với các địa phương, Phó Thủ tướng yêu cầu: 34 tỉnh thành báo cáo lại về mức độ chính xác của các bản đồ ngập lụt, sạt lở đất, lũ quét; thứ hai xem xét lại năng lực ứng phó thiên tai theo từng cấp độ của từng địa phương; thứ ba giao cấp phường xã đến hết tháng 11 ghi nhận lại dữ liệu lũ lịch sử vừa qua . Các địa phương cần đánh giá kỹ cấp độ thiên tai của những khu vực có hồ đập thủy điện, xem xét quy trình vận hành của các hồ . Thường thì tôi cho rằng khi lũ rút, những mất mát khó khăn của người dân ngày càng hiện hữu rõ ràng hơn . Nuôi trồng vốn là nghề chủ lực của hàng chục ngàn hộ nông dân khu vực Nam Trung Bộ, nhưng lúc này đã rất nhiều gia đình trắng tay vì cây con, lúa, vịt hay cả lúa giống đã bị trôi theo dòng nước lũ . Vâng và điều này thì cũng đồng nghĩa với là sinh kế của đồng bào đã không còn . Và sau lũ đi qua thì nhiều vùng nông thôn ở phía Đông của tỉnh Đắk Lắk ở đâu cũng thấy chuồng trống, vật nuôi chết và cả lúa vụ Hè Thu mới gặt giờ bán rẻ như cho .",
     "list_entity": [
+      {
+        "text": "bà con nông dân",
+        "label": "tên người"
+      },
+      {
+        "text": "30 tấn",
+        "label": "số lượng"
+      },
       {
         "text": "thôn Xuân Thạnh",
         "label": "vị trí"
@@ -372,11 +392,11 @@
         "label": "tên người"
       },
       {
-        "text": "tiền bạc",
-        "label": "tiền tệ"
+        "text": "3,2 triệu con",
+        "label": "số lượng"
       },
       {
-        "text": "2850 tỷ đồng",
+        "text": "tiền bạc",
         "label": "tiền tệ"
       },
       {
@@ -398,9 +418,13 @@
       {
         "text": "nông dân",
         "label": "tên người"
+      },
+      {
+        "text": "vùng trồng lúa này",
+        "label": "vị trí"
       }
     ],
-    "summarize": "Những chiếc máy cày nối nhau chở theo rất nhiều lúa, đây vốn là của để dành của bà con nông dân sau mùa gặt vừa qua. Nhà vài tấn, nhiều như hộ này lên đến 30 tấn lúa thu hoạch vụ vừa rồi, giá rẻ bà con tích trữ chờ giá lên nhưng bây giờ tất cả đều ngập trong nước lũ và hư hỏng.\n\nỞ thôn Xuân Thạnh, không có con gì, gạo công cốc hết luôn, không có còn thứ gì đó. Mười tấn lúa với gạo rồi nữa còn nhiêu vậy, nếu lo cái chuyện ăn không chứ còn có làm vậy đó, rồi lúa giống lúa đồ cũng có sạc lại nữa rồi làm sao đây.\n\nNhững gì ở đây chỉ là một phần nhỏ trong những thiệt hại đối với lúa và lúa giống của những nông dân ở đây. Ở vùng Đông Đắk Lắk, nông dân phần lớn làm nông và nuôi thủy sản, vì vậy vốn liếng có được nông dân dành dụm đầu tư vào trồng lúa.\n\nLúa thu hoạch để dành giờ hư hỏng, đàn gia súc gia cầm 3,2 triệu con nuôi chờ Tết bán giờ cũng đã như thế này. Cả một vùng nuôi tôm rộng lớn nước lũ đổ về đã làm 20 triệu con tôm hùm chưa kịp bán của bà con đều bị cuốn trôi hoặc chết trong nước lũ.\n\nTheo ước tính của tỉnh Đắk Lắk, thiệt hại trên lĩnh vực chăn nuôi và thủy sản lên đến 2850 tỷ đồng, chiếm 50% tổng thiệt hại do lũ này gây ra cho người dân ở phía Đông. Một con số quá lớn đối với những nông dân ở đây và những nông dân ở vùng trồng lúa này đang lo lúa ăn đã mất hết, còn lúa giống cho vụ tới đang cận kề cũng không còn thì không biết phải xoay sở ra sao.\n\nVâng lúc này thì đồng bào vùng lũ gần như đã trắng tay và chồng chất khó khăn và đang cần nhiều lắm sự hỗ trợ để sớm ổn định cuộc sống."
+    "summarize": "Bà con nông dân ở thôn Xuân Thạnh và vùng Đông Đắk Lắk đang đối mặt với những thiệt hại nặng nề do lũ quét. Sau mùa gặt vừa qua, nhiều người đã tích trữ 30 tấn lúa để chờ giá lên, nhưng nay tất cả đều hư hỏng vì ngập trong nước lũ.\n\nLúa giống cũng bị ảnh hưởng nghiêm trọng, khiến cho việc sản xuất vụ tới trở nên khó khăn hơn bao giờ hết. Mười tấn lúa với gạo công cốc đã hết, không còn thứ gì để ăn hoặc làm khác. Những nông dân ở đây phần lớn sống bằng nghề trồng trọt và nuôi thủy sản, vốn liếng của họ được dành dụm đầu tư vào trồng lúa.\n\nBây giờ, đàn gia súc gia cầm 3,2 triệu con cũng bị ảnh hưởng nghiêm trọng do không có thức ăn để cho chúng. Cả một vùng nuôi tôm rộng lớn nước lũ đổ về đã làm 20 triệu con tôm hùm chưa kịp bán của bà con đều bị cuốn trôi hoặc chết trong nước lũ.\n\nTheo ước tính của tỉnh Đắk Lắk, thiệt hại trên lĩnh vực chăn nuôi và thủy sản lên đến 2850 tỷ đồng, chiếm 50% tổng thiệt hại do lũ này gây ra cho người dân ở phía Đông. Một con số quá lớn đối với những nông dân ở đây đang lo lúa ăn đã mất hết, còn lúa giống cho vụ tới cũng không còn thì không biết phải xoay sở ra sao.\n\nBà con nông dân vùng lũ gần như đã trắng tay và chồng chất khó khăn, cần nhiều sự hỗ trợ để sớm ổn định cuộc sống."
   },
   {
     "chunk_id": 9,
@@ -422,6 +446,10 @@
         "label": "vị trí"
       },
       {
+        "text": "các đơn vị",
+        "label": "tên tổ chức"
+      },
+      {
         "text": "Tết Nguyên đán",
         "label": "tên sự kiện"
       },
@@ -432,6 +460,10 @@
       {
         "text": "Bộ Công an",
         "label": "tên tổ chức"
+      },
+      {
+        "text": "Gia Lai",
+        "label": "vị trí"
       },
       {
         "text": "Cả xã hội",
@@ -478,6 +510,10 @@
         "label": "vị trí"
       },
       {
+        "text": "Quảng Ngãi",
+        "label": "vị trí"
+      },
+      {
         "text": "Gia Lai",
         "label": "vị trí"
       },
@@ -490,7 +526,7 @@
         "label": "vị trí"
       }
     ],
-    "summarize": "Ngân hàng Nhà nước Việt Nam yêu cầu các ngân hàng rà soát mức độ thiệt hại do bão lũ và triển khai các biện pháp hỗ trợ khẩn cấp cho khách hàng tại vùng bão lũ. Trong khi đó, lễ khởi công xây dựng nhà ở cho các hộ dân bị thiệt hại do bão lũ đã được Bộ Công an phối hợp với tỉnh Gia Lai tổ chức tại phường Quy Nhơn Đông.\n\nGia Lai hiện có gần 200 căn nhà hư hỏng nặng, nhiều hộ đang gặp khó khăn trong việc khắc phục thiệt hại. Bộ Công an cũng đã trao tặng 50 tấn gạo và nhu yếu phẩm thiết yếu hỗ trợ người dân Gia Lai ổn định đời sống sau lũ. Cả xã hội đang chung tay hỗ trợ tái thiết ổn định cuộc sống giúp đồng bào vực dậy sau mưa lũ.\n\nViệc khôi phục hạ tầng cho người dân cũng được triển khai tích cực khẩn trương. Dự kiến Quốc lộ 20 sẽ thông xe trong ngày mai ngày 27 tháng 11, riêng Quốc lộ 27C đang được hỗ trợ nổ mìn phá đá, phấn đấu thông tuyến trước ngày mùng 1 tháng 1. Cục Đường bộ đang duy trì trực 24/24 giờ để đẩy nhanh tiến độ.\n\nTại Đắk Lắk, ngành điện đang khẩn trương khôi phục cấp điện cho khoảng 1500 hộ dân còn lại. Còn tại Gia Lai, đến chiều nay 100% các khu cụm công nghiệp trên địa bàn đã được cấp điện trở lại, hầu hết khu dân cư cũng đã có điện. Hôm nay, Bộ Xây dựng cũng đã công bố tình huống khẩn cấp về thiên tai để khắc phục hư hỏng kết cấu hạ tầng giao thông trên tuyến đường Trường Sơn Đông và tuyến Quốc lộ 1 đoạn qua địa bàn thành phố Đà Nẵng và các tỉnh Quảng Ngãi, Gia Lai, Đắk Lắk, Khánh Hòa."
+    "summarize": "Thực hiện chỉ đạo của Thủ tướng Chính phủ, Ngân hàng Nhà nước Việt Nam yêu cầu các ngân hàng rà soát mức độ thiệt hại do bão lũ và triển khai hỗ trợ khẩn cấp cho khách hàng tại vùng bị ảnh hưởng. Trong khuôn khổ lễ khởi công xây dựng nhà ở cho hộ dân bị hư hỏng nặng, Bộ Công an đã phối hợp với tỉnh Gia Lai tổ chức tại phường Quy Nhơn Đông.\n\nDự kiến Quốc lộ 20 sẽ thông xe vào ngày mai, trong khi đó tuyến đường sắt Bắc Nam qua khu vực Nam Trung Bộ cũng đang được khôi phục. Tại Đắk Lắk, ngành điện đang nỗ lực khôi phục cấp điện cho khoảng 1500 hộ dân còn lại. Còn tại Gia Lai, đến chiều nay đã có 100% các khu cụm công nghiệp và hầu hết khu dân cư đã được nối điện trở lại.\n\nBộ Công an cũng đã trao tặng 50 tấn gạo và nhu yếu phẩm thiết yếu để hỗ trợ người dân ổn định cuộc sống sau lũ. Cả xã hội đang chung tay hỗ trợ tái thiết, giúp đỡ đồng bào vực dậy sau mưa lũ. Các đơn vị sẽ tập trung nguồn lực đảm bảo tiến độ chất lượng và an toàn trong quá trình xây dựng. Tại buổi lễ, các nhà chức trách cũng đã triển khai khôi phục hạ tầng cho người dân.\n\nCục Đường bộ đang duy trì trực 24/24 giờ để đẩy nhanh tiến độ. Bộ Xây dựng cũng đã công bố tình huống khẩn cấp về thiên tai để khắc phục hư hỏng kết cấu hạ tầng giao thông trên tuyến đường Trường Sơn Đông và Quốc lộ 1 đoạn qua địa bàn thành phố Đà Nẵng và các tỉnh Quảng Ngãi, Gia Lai, Đắk Lắk, Khánh Hòa."
   },
   {
     "chunk_id": 10,
@@ -552,6 +588,18 @@
         "label": "vị trí"
       },
       {
+        "text": "ngành y tế địa phương",
+        "label": "tên tổ chức"
+      },
+      {
+        "text": "Trọng tâm",
+        "label": "vị trí"
+      },
+      {
+        "text": "số lượng thụ hưởng",
+        "label": "số lượng"
+      },
+      {
         "text": "người dân",
         "label": "tên người"
       },
@@ -568,7 +616,7 @@
         "label": "tiền tệ"
       }
     ],
-    "summarize": "Bộ Chính trị đã phân công Hà Nội, Thành phố Hồ Chí Minh, Hải Phòng và Quảng Ninh hỗ trợ trực tiếp các tỉnh Gia Lai, Khánh Hòa, Đắk Lắk và Lâm Đồng sau mưa lũ. Tại Thành phố Hồ Chí Minh, chính quyền và người dân đã bắt tay thực hiện các chương trình hỗ trợ người dân tỉnh Khánh Hòa.\n\nHàng trăm tấn hàng hóa thiết yếu đã được cung ứng, bao gồm lương thực thực phẩm và các nhu yếu phẩm khác. Thành phố Hồ Chí Minh cũng tổ chức luân phiên y bác sĩ phối hợp cùng ngành y tế địa phương khám chữa bệnh và chăm sóc sức khỏe cho người dân.\n\nĐể khôi phục 550 trạm phát sóng và hỗ trợ sửa chữa 33 trường học, thành phố Hồ Chí Minh dự kiến cần khoảng 170 tỷ đồng. Nguồn lực này đang được huy động từ cộng đồng thông qua các bản mã QR xuất hiện tại nhiều khu vực công cộng.\n\nBộ Chính trị đã phân công Hà Nội, Thành phố Hồ Chí Minh, Hải Phòng và Quảng Ninh hỗ trợ trực tiếp các tỉnh Gia Lai, Khánh Hòa, Đắk Lắk và Lâm Đồng. Tại Thành phố Hồ Chí Minh, chính quyền và người dân đã bắt tay thực hiện các chương trình hỗ trợ người dân tỉnh Khánh Hòa."
+    "summarize": "Trong bối cảnh mưa lũ gây thiệt hại nặng nề ở nhiều tỉnh, Bộ Chính trị đã phân công Hà Nội, Thành phố Hồ Chí Minh, Hải Phòng và Quảng Ninh trực tiếp hỗ trợ các tỉnh Gia Lai, Khánh Hòa, Đắk Lắk và Lâm Đồng. Tại thành phố Hồ Chí Minh, chính quyền và người dân đã bắt tay thực hiện việc hỗ trợ từ những việc làm thiết thực nhất.\n\nVới phương châm hỗ trợ có trọng tâm trọng điểm sát với điều kiện thực tế, nhiều chương trình đã được cùng lúc triển khai giải quyết các nhu cầu cấp thiết giúp người dân nhanh chóng ổn định cuộc sống. Thành phố Hồ Chí Minh cung ứng hàng hóa thiết yếu và tổ chức luân phiên y bác sĩ phối hợp khám chữa bệnh cho người dân.\n\nƯớc tính thành phố Hồ Chí Minh sẽ cần khoảng 170 tỷ đồng để khôi phục 550 trạm phát sóng và 30 tỷ đồng để hỗ trợ sửa chữa 33 trường học giúp học sinh Khánh Hòa sớm trở lại lớp. Nguồn lực này đang được huy động từ cộng đồng thông qua các bản mã QR xuất hiện tại nhiều khu vực công cộng trong thành phố.\n\nTrong bối cảnh tình hình khó khăn, người dân và chính quyền của thành phố Hồ Chí Minh đã thể hiện tinh thần đoàn kết sẻ chia và hợp lý phân bổ nguồn lực giúp giải quyết kịp thời nhu cầu bức bách."
   },
   {
     "chunk_id": 11,
@@ -577,10 +625,6 @@
     "sentence_count": 13,
     "previous_text": "Rất nhiều việc làm giải pháp đã và đang được triển khai đồng thời cấp thiết dành ưu tiên cao nhất hướng tới đồng bào vùng lũ . Bộ Chính trị đã phân công Hà Nội, Thành phố Hồ Chí Minh, Hải Phòng và Quảng Ninh trực tiếp hỗ trợ các tỉnh Gia Lai, Khánh Hòa, Đắk Lắk và Lâm Đồng . Không chỉ là sự đoàn kết sẻ chia, đây còn là sự phân bổ nguồn lực hợp lý giúp giải quyết kịp thời các nhu cầu bức bách, hướng đến mục tiêu nhanh chóng ổn định và tái thiết đời sống tại những nơi chịu thiệt hại nặng nề do mưa lũ . Vâng tại thành phố Hồ Chí Minh thì ngay sau khi được Bộ Chính trị phân công hỗ trợ trực tiếp tỉnh Khánh Hòa, chính quyền và người dân đã bắt tay thực hiện từ những việc làm thiết thực nhất . Với phương châm hỗ trợ có trọng tâm trọng điểm sát với điều kiện thực tế, nhiều chương trình đã được cùng lúc triển khai giải quyết các nhu cầu cấp thiết giúp người dân nhanh chóng ổn định cuộc sống . Cùng với hơn 2400 tấn hàng hóa thiết yếu, bốn bếp ăn dã chiến như thế này với lương thực thực phẩm và tình nguyện viên của thành phố Hồ Chí Minh từ ngày 22 tháng 11 đã liên tục cung ứng .000 suất cơm mỗi ngày cho người dân và lực lượng hỗ trợ tỉnh Khánh Hòa . Việt Nam chúng ta có tình nghĩa đồng bào dân tộc phải thương yêu đùm bọc lẫn nhau khi gặp những hoạn nạn khó khăn nhất . Song song với việc cung cấp nhu yếu phẩm, thành phố Hồ Chí Minh tổ chức luân phiên 30 đến 50 y bác sĩ phối hợp cùng ngành y tế địa phương khám chữa bệnh, chăm sóc sức khỏe cho người dân . Trọng tâm trọng điểm cầu đường trường trạm là để cho số lượng thụ hưởng nó rộng hơn, thời gian thụ hưởng kéo dài hơn và đảm bảo cái sự thụ hưởng về phúc lợi của người dân từ cái sự trợ giúp của thành phố Hồ Chí Minh chúng ta. Ước tính thành phố Hồ Chí Minh sẽ cần khoảng 170 tỷ đồng để khôi phục 550 trạm phát sóng và 30 tỷ đồng để hỗ trợ sửa chữa 33 trường học giúp học sinh Khánh Hòa sớm trở lại lớp . Nguồn lực này đang được huy động từ cộng đồng từ các bản mã QR bắt đầu xuất hiện tại nhiều khu vực công cộng trong thành phố .",
     "list_entity": [
-      {
-        "text": "em",
-        "label": "tên người"
-      },
       {
         "text": "người dân",
         "label": "tên người"
@@ -635,7 +679,7 @@
       },
       {
         "text": "sáu người",
-        "label": "tên người"
+        "label": "số lượng"
       },
       {
         "text": "Malaysia",
@@ -670,7 +714,7 @@
         "label": "vị trí"
       }
     ],
-    "summarize": "Cách đây vài ngày, em đã ủng hộ quần áo nhu yếu phẩm và chuyển tiền cho một số tỉnh thành khác. Khi thấy biển báo này, em nghĩ rằng người dân ở các tỉnh thành khác đang làm việc ở thành phố Hồ Chí Minh cũng sẽ chung tay giúp đỡ không chỉ Khánh Hòa mà còn ở những nơi khác nữa. Báo Sài Gòn Giải Phóng là đơn vị đầu tiên đăng ký hỗ trợ một trong 33 trường học tại Khánh Hòa theo mô hình một kèm một. Họ cũng muốn hỗ trợ sửa chữa miễn phí các phòng máy tính của các trường học bị ngập lụt và muốn Báo Sài Gòn Giải Phóng là đơn vị kết nối với địa phương để họ ở lại đó 1 tháng cũng được nữa để hỗ trợ.\n\nThành phố nghĩa tình đặt mục tiêu đồng hành cùng chính quyền và nhân dân tỉnh Khánh Hòa trong hành trình mới với các giải pháp nhân văn và hiệu quả để nhanh chóng khôi phục đời sống xã hội sau thiên tai. Không chỉ Việt Nam, chỉ trong vài tuần phần lớn khu vực Đông Nam Á đã phải hứng chịu một trong những mùa mưa khắc nghiệt nhất trong những năm gần đây gây ra một chuỗi các đợt lũ lụt sau các cơn bão liên tiếp. Mưa lũ đã khiến ít nhất 33 người thiệt mạng và ảnh hưởng đến khoảng 2,2 triệu người.\n\nTại Thái Lan, tình trạng khẩn cấp đã được ban bố tại tỉnh miền Nam Songkhla. Tại Indonesia, mưa lớn đã gây ra lũ quét và lở đất trên đảo Sumatra khiến ít nhất 10 người thiệt mạng và sáu người mất tích. Còn tại Malaysia, hơn .000 người đã phải sơ tán trong bối cảnh lũ lụt ảnh hưởng diện rộng trên khắp đất nước. Mưa lớn do áp thấp nhiệt đới cũng đã gây lũ lụt ở miền Trung Philippines vào ngày hôm qua.\n\nCác chuyên gia cho rằng hai hiện tượng khí hậu hiếm khi xảy ra cùng lúc đã kết hợp với nhau biến khu vực Đông Nam Á thành một cỗ máy tạo mưa. Thứ nhất là La Niña, hiện tượng khi vùng trung tâm Thái Bình Dương nguội đi đẩy nhiệt sang phía Tây và làm tăng mưa tại Đông Nam Á. Thứ hai là hiện tượng Lưỡng cực âm Ấn Độ Dương khiến cho vùng biển gần Indonesia ấm lên bất thường gia tăng hơi ẩm và tạo mưa nhiều hơn."
+    "summarize": "Văn bản gốc đã mô tả tình hình mưa lũ khắc nghiệt ở khu vực Đông Nam Á, gây thiệt hại nặng nề cho nhiều quốc gia và tỉnh thành. Báo Sài Gòn Giải Phóng là một trong những đơn vị đầu tiên đứng lên hỗ trợ các trường học tại Khánh Hòa bị ảnh hưởng bởi thiên tai.\n\nCác người dân ở thành phố Hồ Chí Minh cũng đã thể hiện sự chung tay giúp đỡ, ủng hộ quần áo nhu yếu phẩm và tiền cho tỉnh thành khác. Thành phố nghĩa tình đặt mục tiêu đồng hành cùng chính quyền và nhân dân tỉnh Khánh Hòa trong việc khôi phục đời sống xã hội sau thiên tai.\n\nKhu vực Đông Nam Á đã phải hứng chịu một mùa mưa khắc nghiệt, gây ra các đợt lũ lụt nghiêm trọng. Mưa lũ đã khiến ít nhất 33 người thiệt mạng và ảnh hưởng đến khoảng 2,2 triệu người. Tại Thái Lan, Indonesia, Malaysia, Philippines, tình trạng khẩn cấp đã được ban bố hoặc có nhiều người phải sơ tán.\n\nCác chuyên gia cho rằng hai hiện tượng khí hậu hiếm khi xảy ra cùng lúc đã kết hợp với nhau biến khu vực Đông Nam Á thành một cỗ máy tạo mưa. La Niña và Lưỡng cực âm Ấn Độ Dương là hai yếu tố chính gây ra tình trạng này."
   },
   {
     "chunk_id": 12,
@@ -692,6 +736,10 @@
         "label": "tên tổ chức"
       },
       {
+        "text": "diễn đàn",
+        "label": "tên sự kiện"
+      },
+      {
         "text": "Thủ tướng Phạm Minh Chính",
         "label": "tên người"
       },
@@ -702,10 +750,6 @@
       {
         "text": "Diễn đàn Kinh tế Thế giới",
         "label": "tên tổ chức"
-      },
-      {
-        "text": "Thủ tướng",
-        "label": "tên người"
       },
       {
         "text": "nhân dân",
@@ -728,7 +772,7 @@
         "label": "tên tổ chức"
       }
     ],
-    "summarize": "Thủ tướng Phạm Minh Chính đã dự và phát biểu tại phiên khai mạc và phiên toàn thể Diễn đàn Kinh tế Mùa thu lần thứ nhất năm 2025 với chủ đề \"Chuyển đổi xanh trong kỷ nguyên số\". Ông nhấn mạnh rằng Diễn đàn là dấu mốc mở ra một chặng đường mới đầy triển vọng trong hành trình hợp tác phát triển và hội nhập quốc tế của Việt Nam.\n\nThủ tướng cảm ơn Diễn đàn Kinh tế Thế giới cùng các tập đoàn doanh nghiệp và tổ chức quốc tế đã đồng hành ủng hộ Việt Nam trong quá trình tổ chức Diễn đàn Kinh tế Mùa thu lần thứ nhất. Ông khẳng định ba quan điểm nhất quán và xuyên suốt của Việt Nam trong quá trình chuyển đổi xanh trong kỷ nguyên số.\n\nThứ nhất, mọi sự phát triển đều lấy con người, nhân dân, doanh nghiệp làm trung tâm, chủ thể, mục tiêu, động lực và nguồn lực. Thứ hai, Việt Nam là bạn tốt là đối tác tin cậy và là thành viên có trách nhiệm trong cộng đồng quốc tế. Thứ ba, nguồn lực bắt nguồn từ tư duy và tầm nhìn, động lực bắt nguồn từ sự đổi mới và sáng tạo, sức mạnh bắt nguồn từ nhân dân, doanh nghiệp.\n\nThủ tướng nhấn mạnh rằng chuyển đổi xanh trong kỷ nguyên số là một xu thế tất yếu, là yêu cầu khách quan, là lựa chọn chiến lược, là ưu tiên hàng đầu cho sự phát triển nhanh và bền vững của mỗi quốc gia, của mỗi doanh nghiệp và của toàn thế giới. Ông cam kết hợp tác chặt chẽ hiệu quả với tất cả các nước trên thế giới, với tất cả các đối tác, với tất cả các doanh nghiệp với một tinh thần là lợi ích hài hòa rủi ro chia sẻ."
+    "summarize": "Thủ tướng Phạm Minh Chính dự và phát biểu tại Diễn đàn Kinh tế Mùa thu lần thứ nhất năm 2025\nNgày hôm nay, Thủ tướng Chính phủ Phạm Minh Chính đã tham dự phiên khai mạc và phiên toàn thể của Diễn đàn Kinh tế Mùa thu lần thứ nhất năm 2025. Ông cũng đưa ra bài phát biểu quan trọng tại sự kiện này.\n\nTrong lời chúc mừng gửi đến các đại biểu dự diễn đàn, Tổng Bí thư Tô Lâm cùng lãnh đạo Đảng, Nhà nước đã được ghi nhận. Thủ tướng Chính phủ nhấn mạnh rằng Diễn đàn là một dấu mốc mở đầu cho một hành trình mới đầy triển vọng trong việc hợp tác phát triển và hội nhập quốc tế của Việt Nam.\n\nThủ tướng cảm ơn sự hỗ trợ của Diễn đàn Kinh tế Thế giới cùng các tập đoàn doanh nghiệp và tổ chức quốc tế trong quá trình tổ chức diễn đàn. Ông cũng khẳng định ba quan điểm chính của Việt Nam về chuyển đổi xanh trong kỷ nguyên số: \n\n- Mọi sự phát triển phải đặt con người, nhân dân và doanh nghiệp làm trung tâm.\n- Việt Nam sẵn sàng mở cửa thị trường tạo điều kiện cho các dòng vốn xanh, công nghệ xanh và công nghệ số từ các đối tác quốc tế.\n- Nguồn lực có nguồn gốc từ tư duy và tầm nhìn; động lực đến từ sự đổi mới và sáng tạo; sức mạnh bắt nguồn từ nhân dân và doanh nghiệp.\n\nThủ tướng cũng nhấn mạnh rằng Việt Nam sẵn sàng kết hợp sức mạnh của đất nước với sức mạnh thời đại, sức mạnh trong nước với quốc tế. Ông khẳng định chuyển đổi xanh là một xu thế tất yếu, yêu cầu khách quan và lựa chọn chiến lược để phát triển nhanh và bền vững.\n\nThủ tướng tin tưởng vào việc cam kết hợp tác hiệu quả giữa Việt Nam và các nước trên thế giới cũng như đối tác khác. Với tinh thần đó, Thủ tướng mong muốn lợi ích được chia sẻ hài hòa; mọi khó khăn sẽ được giải quyết thông qua sự hợp tác chặt chẽ giữa tất cả các bên liên quan.\n\nThủ tướng nhấn mạnh rằng cam kết này không chỉ mang tính chất chung chung mà còn cụ thể hóa bằng những hành động thực tế trong tương lai."
   },
   {
     "chunk_id": 13,
@@ -780,9 +824,13 @@
       {
         "text": "Đảng",
         "label": "tên tổ chức"
+      },
+      {
+        "text": "nhân dân",
+        "label": "tên người"
       }
     ],
-    "summarize": "Văn bản tóm tắt như sau:\n\nThủ tướng Phạm Minh Chính đã nhấn mạnh tầm quan trọng của hợp tác quốc tế trong bối cảnh đại dịch Covid-19 và thảm họa thiên tai do biến đổi khí hậu. Ông cho biết Việt Nam tập trung triển khai các giải pháp thực hiện trên tinh thần thể chế thông thoáng, hạ tầng thông suốt, quản trị và nhân lực thông minh.\n\nThủ tướng Phạm Minh Chính kỳ vọng những sáng kiến và cam kết được chia sẻ tại Diễn đàn Kinh tế Mùa thu sẽ khơi nguồn cho những triển vọng hợp tác mới và những hành động cụ thể để cùng kiến tạo một tương lai phát triển xanh, số và nhân văn cho tất cả mọi người.\n\nTại phiên đối thoại chính sách cấp cao giữa Thủ tướng Phạm Minh Chính với lãnh đạo Diễn đàn Kinh tế Thế giới, Thủ tướng đã trả lời nhiều câu hỏi về những vấn đề có ý nghĩa chiến lược như chia sẻ về những bài học trong quá khứ để hướng tới tương lai, về vai trò và giải pháp thúc đẩy chuyển đổi số, chuyển đổi xanh, vai trò của các doanh nghiệp nhỏ và vừa, doanh nghiệp khởi nghiệp đổi mới sáng tạo đối với Việt Nam.\n\nThủ tướng đánh giá rằng hai yếu tố chính giúp tăng cường khả năng chống chịu của Việt Nam trong bối cảnh thế giới đầy biến động hiện nay là Đảng lãnh đạo tất cả vì nhân dân, vì cái độc lập tự do ấm no hạnh phúc của nhân dân của đất nước và vấn đề đại đoàn kết toàn dân tộc."
+    "summarize": "Văn bản gốc nêu bật vấn đề đại dịch Covid-19 và thảm họa do biến đổi khí hậu, nhấn mạnh tầm quan trọng của hợp tác quốc tế để giải quyết những khó khăn chưa có tiền lệ này. Thủ tướng Phạm Minh Chính cho biết Việt Nam tập trung vào việc triển khai các giải pháp thông thoáng, hạ tầng thông suốt, quản trị và nhân lực thông minh.\n\nThủ tướng kỳ vọng Diễn đàn Kinh tế Mùa thu sẽ đóng góp nguồn sáng kiến mới và cam kết hợp tác để cùng xây dựng một tương lai xanh, số và nhân văn cho tất cả mọi người. Trong phiên đối thoại chính sách cấp cao với lãnh đạo Diễn đàn Kinh tế Thế giới Stephan Mergenthaler, Thủ tướng trả lời nhiều câu hỏi về những vấn đề chiến lược như chuyển đổi số, chuyển đổi xanh, vai trò của các doanh nghiệp nhỏ và vừa trong kinh tế Việt Nam.\n\nThủ tướng đánh giá hai yếu tố quan trọng giúp tăng cường khả năng chống chịu của Việt Nam: Đảng lãnh đạo tất cả vì nhân dân với tinh thần đoàn kết toàn dân tộc. \"Cái thứ nhất có một cái Đảng lãnh đạo tất cả vì nhân dân, vì cái độc lập tự do ấm no hạnh phúc của nhân dân và đất nước là yếu tố quan trọng nhất,\" Thủ tướng nói.\n\n\"Vấn đề thứ hai là vấn đề đại đoàn kết toàn dân tộc, chúng tôi càng khó khăn thì tinh thần đoàn kết càng mạnh mẽ\"."
   },
   {
     "chunk_id": 14,
@@ -828,7 +876,7 @@
         "label": "vị trí"
       }
     ],
-    "summarize": "Chủ tịch Hồ Chí Minh đã từng nói rằng \"Đoàn kết đoàn kết đại đoàn kết, thành công thành công đại thành công\". Trong những lúc khó khăn, tình dân tộc và nghĩa đồng bào được nâng lên cao. Ông nhấn mạnh năm yếu tố quan trọng để đạt được thành công: sức mạnh từ nhân dân và doanh nghiệp, kết hợp sức mạnh của dân tộc với sức mạnh của thời đại, kiên trì đường lối độc lập tự chủ, xây dựng nền kinh tế tự lực tự cường và chủ nghĩa xã hội.\n\nTrong bài phát biểu, ông đề cập đến vai trò của Việt Nam như một thành viên tích cực và xây dựng của cộng đồng quốc tế. Ông nhìn nhận rằng Việt Nam theo đuổi một đường lối đối ngoại độc lập tự chủ nhưng đa dạng hóa và đa phương hóa, trở thành bạn bè tốt và đối tác tin cậy với tất cả các nước trên thế giới.\n\nViệt Nam sẵn sàng làm cầu nối để các nước đối thoại với nhau. Năm 2019, chúng tôi đã sẵn sàng làm nơi để Tổng thống Trump và Chủ tịch Kim Jong Un của Triều Tiên đến đối thoại tại Hà Nội. Chúng tôi cũng sẵn sàng xây dựng các chương trình đối thoại của quốc tế, khu vực và quốc tế. Ví dụ, chúng tôi đã xây dựng các chương trình đối thoại để giải quyết xung đột và thúc đẩy hòa bình hợp tác và phát triển.\n\nChủ tịch Hồ Chí Minh đã từng nói rằng \"Đoàn kết đoàn kết đại đoàn kết, thành công thành công đại thành công\". Trong những lúc khó khăn, tình dân tộc và nghĩa đồng bào được nâng lên cao. Ông nhấn mạnh năm yếu tố quan trọng để đạt được thành công: sức mạnh từ nhân dân và doanh nghiệp, kết hợp sức mạnh của dân tộc với sức mạnh của thời đại, kiên trì đường lối độc lập tự chủ, xây dựng nền kinh tế tự lực tự cường và chủ nghĩa xã hội.\n\nTrong bài phát biểu, ông đề cập đến vai trò của Việt Nam như một thành viên tích cực và xây dựng của cộng đồng quốc tế. Ông nhìn nhận rằng Việt Nam theo đuổi một đường lối đối ngoại độc lập tự chủ nhưng đa dạng hóa và đa phương hóa, trở thành bạn bè tốt và đối tác tin cậy với tất cả các nước trên thế giới.\n\nViệt Nam sẵn sàng làm cầu nối để các nước đối thoại với nhau. Năm 2019, chúng tôi đã sẵn sàng làm nơi để Tổng thống Trump và Chủ tịch Kim Jong Un của Triều Tiên đến đối thoại tại Hà Nội. Chúng tôi cũng sẵn sàng xây dựng các chương trình đối thoại của quốc tế, khu vực và quốc tế. Ví dụ, chúng tôi đã xây dựng các chương trình đối thoại để giải quyết xung đột và thúc đẩy hòa bình hợp tác và phát triển."
+    "summarize": "Chủ tịch Hồ Chí Minh từng nói rằng \"Đoàn kết đoàn kết đại đoàn kết, thành công thành công đại thành công\" là cách để vượt qua khó khăn và bão gió. Ông nhấn mạnh 5 yếu tố quan trọng cho sự phát triển của một dân tộc: sức mạnh từ nhân dân và doanh nghiệp, việc kết hợp sức mạnh của dân tộc với sức mạnh của thời đại, độc lập tự chủ, xây dựng nền kinh tế tự lực tự cường và hướng tới chủ nghĩa xã hội.\n\nChủ tịch Hồ Chí Minh cũng nhấn mạnh vai trò quan trọng của Việt Nam trong cộng đồng quốc tế. Ông cho rằng muốn đối thoại được thì phải kích hoạt giá trị chung của các dân tộc trên thế giới và chỉ có đối thoại mới giải quyết được vấn đề mà không gây ra mất mát, chiến tranh hay xung đột.\n\nViệt Nam theo đuổi một đường lối đối ngoại độc lập tự chủ nhưng đa dạng hóa đa phương hóa. Chúng tôi là bạn bè tốt, đối tác tin cậy với tất cả các nước trên thế giới và là thành viên có trách nhiệm trong cộng đồng quốc tế vì mục tiêu hòa bình hợp tác và phát triển.\n\nViệt Nam sẵn sàng làm cầu nối để các nước đối thoại với nhau. Năm 2019, chúng tôi đã tổ chức cuộc gặp giữa Tổng thống Trump và Chủ tịch Kim Jong Un của Triều Tiên tại Hà Nội. Chúng tôi cũng sẵn sàng xây dựng các chương trình đối thoại khu vực và quốc tế để giải quyết xung đột.\n\nChủ tịch Hồ Chí Minh tin rằng Việt Nam có vai trò quan trọng trong việc thúc đẩy tinh thần đối thoại trên trường quốc tế, đặc biệt là trong bối cảnh hiện nay."
   },
   {
     "chunk_id": 15,
@@ -874,6 +922,14 @@
         "label": "tên tổ chức"
       },
       {
+        "text": "hơn 1500 đại biểu",
+        "label": "số lượng"
+      },
+      {
+        "text": "gần 100",
+        "label": "số lượng"
+      },
+      {
         "text": "trung tâm khoa học công nghệ đổi mới sáng tạo",
         "label": "tên tổ chức"
       },
@@ -886,7 +942,7 @@
         "label": "tên tổ chức"
       }
     ],
-    "summarize": "Thủ tướng Phạm Minh Chính đã chứng kiến việc trao bản ghi nhớ về hợp tác giữa thành phố Hồ Chí Minh và Diễn đàn Kinh tế Thế giới về sáng kiến thúc đẩy sản xuất thông minh và chuyển đổi công nghiệp có trách nhiệm tại Việt Nam. Đây là một bước tiến quan trọng trong hợp tác giữa hai bên.\n\nDiễn đàn Kinh tế Mùa thu lần thứ nhất năm 2025 đã thành công rất tốt đẹp với nhiều dấu ấn đặc biệt. Thủ tướng Phạm Minh Chính đánh giá diễn đàn có ý nghĩa lịch sử khi lần đầu tiên Việt Nam phối hợp với Diễn đàn Kinh tế Thế giới tổ chức, tạo tiền đề để trở thành Diễn đàn Kinh tế Mùa thu thường niên tại thành phố Hồ Chí Minh.\n\nDiễn đàn có quy mô và tầm vóc rất ấn tượng: hơn 1500 đại biểu, gần 100 đoàn khách quốc tế, 10 trung tâm cách mạng công nghiệp .0 và hơn 75 trung tâm khoa học công nghệ đổi mới sáng tạo trên toàn cầu. Qua các thảo luận tại diễn đàn, Thủ tướng đã khái quát năm điểm hội tụ nhận thức rất quan trọng.\n\nThứ nhất, trong một thế giới đầy biến động, phẳng nhưng cũng rất chông gai với những vấn đề thách thức mang tính toàn cầu, toàn dân, toàn diện, các đại biểu đều nhất trí cao về việc tăng cường hơn nữa đoàn kết, hợp tác, đối thoại: đoàn kết để có sức mạnh, hợp tác để có nguồn lực và đối thoại để có lòng tin.\n\nThứ hai, diễn đàn thống nhất chuyển đổi xanh và chuyển đổi số là hai yếu tố căn bản cấu thành một xu thế tất yếu không thể đảo ngược để phát triển nhanh và bền vững.\n\nThứ ba, các đại biểu đều chia sẻ ba đòn bẩy then chốt để thúc đẩy chuyển đổi kép này là thể chế, nguồn lực và đổi mới sáng tạo.\n\nDiễn đàn Kinh tế Thế giới đã thể hiện sự quan tâm và cam kết trong việc thúc đẩy hợp tác và đổi mới sáng tạo tại Việt Nam. Thủ tướng Phạm Minh Chính đã yêu cầu xây dựng diễn đàn trở thành một nền tảng đối thoại chiến lược thường niên uy tín tầm cỡ khu vực và quốc tế về đổi mới sáng tạo và phát triển bền vững.\n\nDiễn đàn Kinh tế Mùa thu lần thứ nhất đã thành công rất tốt đẹp và tạo tiền đề để trở thành Diễn đàn Kinh tế Mùa thu thường niên tại thành phố Hồ Chí Minh."
+    "summarize": "Ngày hôm nay, tại thành phố Hồ Chí Minh đã diễn ra Diễn đàn Kinh tế Mùa thu lần thứ nhất, với sự tham gia của hơn 1500 đại biểu và gần 100 đoàn khách quốc tế. Thủ tướng Phạm Minh Chính đã chứng kiến việc trao bản ghi nhớ về hợp tác giữa thành phố Hồ Chí Minh và Diễn đàn Kinh tế Thế giới.\n\nTrong phát biểu tổng kết, Thủ tướng yêu cầu xây dựng diễn đàn trở thành một nền tảng đối thoại chiến lược thường niên uy tín khu vực và quốc tế. Ông đánh giá rằng đây là một sự kiện lịch sử vì lần đầu tiên Việt Nam phối hợp với Diễn đàn Kinh tế Thế giới tổ chức tại thành phố Hồ Chí Minh.\n\nDiễn đàn có quy mô rất ấn tượng, bao gồm hơn 1500 đại biểu, gần 100 đoàn khách quốc tế và các trung tâm khoa học công nghệ đổi mới sáng tạo trên toàn cầu. Qua các thảo luận, Thủ tướng đã khái quát năm điểm hội tụ nhận thức quan trọng.\n\nThứ nhất, tăng cường hợp tác, đối thoại để có sức mạnh, nguồn lực và lòng tin. Thứ hai, chuyển đổi xanh và số là những yếu tố căn bản cấu thành một xu thế tất yếu cho phát triển nhanh và bền vững. Thứ ba, các đại biểu chia sẻ về ba đòn bẩy then chốt để thúc đẩy chuyển đổi kép này: thể chế, nguồn lực và đổi mới sáng tạo.\n\nThủ tướng Phạm Minh Chính đã chứng kiến việc trao bản ghi nhớ hợp tác giữa thành phố Hồ Chí Minh và Diễn đàn Kinh tế Thế giới. Ông yêu cầu xây dựng diễn đàn trở thành một nền tảng đối thoại thường niên uy tín khu vực và quốc tế."
   },
   {
     "chunk_id": 16,
@@ -908,16 +964,16 @@
         "label": "tên người"
       },
       {
-        "text": "Diễn đàn Kinh tế Thế giới",
-        "label": "tên tổ chức"
-      },
-      {
-        "text": "Diễn đàn Kinh tế Thế giới",
-        "label": "tên tổ chức"
-      },
-      {
-        "text": "Tổng Bí thư",
+        "text": "các đại biểu",
         "label": "tên người"
+      },
+      {
+        "text": "Diễn đàn Kinh tế Thế giới",
+        "label": "tên tổ chức"
+      },
+      {
+        "text": "Diễn đàn Kinh tế Thế giới",
+        "label": "tên tổ chức"
       },
       {
         "text": "Tô Lâm",
@@ -952,7 +1008,7 @@
         "label": "tên tổ chức"
       }
     ],
-    "summarize": "Thủ tướng Chính phủ đã có bài phát biểu tại Diễn đàn Kinh tế Thế giới, nhấn mạnh việc chuyển đổi xanh và chuyển đổi số phải vì con người, công nghệ và trí tuệ nhân tạo phải phục vụ con người và không thể thay thế con người. Các đại biểu đánh giá cao và ủng hộ Việt Nam trong chặng đường phát triển mới.\n\nThủ tướng yêu cầu các bộ ngành địa phương khẩn trương rà soát hoàn thiện hệ thống thể chế pháp luật, sớm ban hành các cơ chế chính sách ưu đãi để khuyến khích đầu tư vào công nghệ xanh, công nghệ số. Đồng thời, đẩy mạnh cải cách hành chính, cắt giảm thủ tục hành chính, tạo mọi thuận lợi cho doanh nghiệp và nhà đầu tư.\n\nTổng Bí thư Tô Lâm đã chỉ đạo Việt Nam ở một tâm thế mới, mong muốn và sẵn sàng tham gia đóng góp vào nền chính trị toàn cầu, nền kinh tế thế giới và nền văn minh của nhân loại. Tại kỳ họp Hội đồng nhân dân thành phố Hà Nội, đồng chí Đỗ Văn Chiến, Ủy viên Bộ Chính trị, Phó Chủ tịch Thường trực Quốc hội đã tham dự. Đồng chí Nguyễn Duy Ngọc, Ủy viên Bộ Chính trị, Bí thư Thành ủy Hà Nội yêu cầu Hội đồng nhân dân thành phố cần coi giám sát là một kênh xây dựng và củng cố hoạt động của chính quyền hai cấp.\n\nDiễn đàn Kinh tế Thế giới đã đề nghị Việt Nam đóng góp nhiều hơn vào các vấn đề kinh tế toàn cầu. Việt Nam sẵn sàng và hoan nghênh ý tưởng này, đây cũng là chủ trương của chúng tôi trong kỷ nguyên phát triển mới. Quốc hội và Hội đồng nhân dân thành phố Hà Nội đã có những đóng góp quan trọng vào sự phát triển của đất nước."
+    "summarize": "Văn bản tóm tắt:\n\nThủ tướng Chính phủ đã có một số phát biểu quan trọng tại Diễn đàn Kinh tế Thế giới, nhấn mạnh rằng chuyển đổi xanh và chuyển đổi số phải phục vụ con người, công nghệ và trí tuệ nhân tạo không thể thay thế con người. Ông yêu cầu các bộ ngành địa phương khẩn trương hoàn thiện hệ thống thể chế pháp luật để khuyến khích đầu tư vào công nghệ xanh và số.\n\nThủ tướng cũng mong muốn các đối tác tổ chức quốc tế tiếp tục hỗ trợ Việt Nam với tinh thần hợp tác thực chất, chân thành và hiệu quả. Ông nhấn mạnh rằng Việt Nam sẵn sàng đóng góp nhiều hơn cho thảo luận tại Diễn đàn Kinh tế Thế giới về vấn đề kinh tế toàn cầu.\n\nTrong một diễn biến khác, Hội đồng nhân dân thành phố Hà Nội đã khai mạc kỳ họp lần thứ..., tham dự có các đại biểu quan trọng như Đỗ Văn Chiến, Ủy viên Bộ Chính trị, Phó Chủ tịch Thường trực Quốc hội. Tại kỳ họp này, Nguyễn Duy Ngọc yêu cầu Hội đồng nhân dân thành phố cần coi giám sát là một kênh xây dựng và củng cố hoạt động của chính quyền hai cấp.\n\nTrong bối cảnh đó, Tô Lâm, Tổng Bí thư đã chỉ đạo Việt Nam ở tâm thế mới mong muốn tham gia đóng góp tích cực vào nền kinh tế thế giới. Diễn đàn Kinh tế Thế giới đã đưa ra nhiều đề xuất quan trọng và Việt Nam cam kết thực hiện những gì đã nói.\n\nCác đại biểu của Quốc hội cũng đánh giá cao, ủng hộ và sẵn sàng đồng hành hợp tác cùng Việt Nam trong chặng đường phát triển mới với tinh thần \"đã nói là làm\"."
   },
   {
     "chunk_id": 17,
@@ -972,6 +1028,10 @@
       {
         "text": "Quốc hội",
         "label": "tên tổ chức"
+      },
+      {
+        "text": "Hà Nội",
+        "label": "vị trí"
       },
       {
         "text": "Quốc hội",
@@ -1030,6 +1090,10 @@
         "label": "vị trí"
       },
       {
+        "text": "An Giang",
+        "label": "vị trí"
+      },
+      {
         "text": "Đại tướng Phan Văn Giang",
         "label": "tên người"
       },
@@ -1042,7 +1106,7 @@
         "label": "tên tổ chức"
       }
     ],
-    "summarize": "Phó Chủ tịch Thường trực Quốc hội Đỗ Văn Chiến cho biết Quốc hội sẽ phối hợp với Hà Nội hoàn thiện thể chế phát triển thủ đô theo hướng đồng bộ hiện đại. Tại kỳ họp thứ 10, Quốc hội sẽ cụ thể hóa Luật Thủ đô thành các cơ chế chính sách đặc thù giúp Hà Nội huy động sử dụng hiệu quả các nguồn lực cho phát triển.\n\nChiều nay, ông Carlos Felipe Jaramillo, Phó Chủ tịch Ngân hàng Thế giới khu vực Đông Á Thái Bình Dương, đã có cuộc gặp với đồng chí Nguyễn Xuân Thắng, Ủy viên Bộ Chính trị, Giám đốc Học viện Chính trị Quốc gia Hồ Chí Minh, Chủ tịch Hội đồng Lý luận Trung ương. Họ mong muốn World Bank tiếp tục hỗ trợ Việt Nam thực hiện ba đột phá chiến lược bao gồm hoàn thiện thể chế, phát triển hạ tầng và nâng cao chất lượng nguồn nhân lực.\n\nĐồng chí cũng đề nghị World Bank tăng cường cử chuyên gia tham gia các chương trình đào tạo cán bộ cấp chiến lược, phối hợp xây dựng báo cáo Việt Nam. Chiều nay, Đại tướng Phan Văn Giang, Ủy viên Bộ Chính trị, Bộ trưởng Bộ Quốc phòng, đã chủ trì hội nghị giao nhiệm vụ các dự án công trình trọng điểm tại đặc khu Thổ Châu, tỉnh An Giang. Ông yêu cầu các cơ quan đơn vị khẩn trương nghiên cứu đẩy nhanh tiến độ xây dựng các khu dân cư, các công trình giao thông, các dự án nguồn nước, nguồn cung điện, viễn thông, nâng cấp bệnh xá quân dân y phục vụ dân sinh và phát triển du lịch.\n\nSớm cụ thể hóa chỉ đạo của Tổng Bí thư Tô Lâm, chủ trương của Đảng về triển khai đầu tư xây dựng các dự án công trình trọng điểm phục vụ quốc phòng an ninh kinh tế xã hội, xây dựng đặc khu Thổ Châu tỉnh An Giang thành điểm tựa chiến lược trong hệ thống phòng thủ Tây Nam bảo vệ chủ quyền biển đảo của Tổ quốc."
+    "summarize": "Phó Chủ tịch Thường trực Quốc hội Đỗ Văn Chiến cho biết, tại kỳ họp thứ 10, Quốc hội sẽ cụ thể hóa Luật Thủ đô thành các cơ chế chính sách đặc thù giúp Hà Nội huy động và sử dụng hiệu quả các nguồn lực cho phát triển. Trong bối cảnh đó, Quốc hội sẽ phối hợp với Hà Nội hoàn thiện thể chế phát triển thủ đô theo hướng đồng bộ hiện đại.\n\nChiều nay, ông Carlos Felipe Jaramillo, Phó Chủ tịch Ngân hàng Thế giới khu vực Đông Á Thái Bình Dương cùng đồng chí Nguyễn Xuân Thắng, Ủy viên Bộ Chính trị, Giám đốc Học viện Chính trị Quốc gia Hồ Chí Minh và Chủ tịch Hội đồng Lý luận Trung ương đã có cuộc gặp với World Bank. Tại đây, họ mong muốn World Bank tiếp tục hỗ trợ Việt Nam thực hiện ba đột phá chiến lược bao gồm hoàn thiện thể chế, phát triển hạ tầng và nâng cao chất lượng nguồn nhân lực.\n\nĐồng thời, World Bank cũng được yêu cầu tăng cường cử chuyên gia tham gia các chương trình đào tạo cán bộ cấp chiến lược, phối hợp xây dựng báo cáo về Việt Nam. \n\nTương tự như thế, Đại tướng Phan Văn Giang - Ủy viên Bộ Chính trị và Bộ trưởng Quốc phòng đã chủ trì hội nghị giao nhiệm vụ cho các dự án công trình trọng điểm tại đặc khu Thổ Châu. Ông yêu cầu khẩn trương nghiên cứu đẩy nhanh tiến độ xây dựng các khu dân cư, các công trình giao thông cũng như các dự án nguồn nước, điện, viễn thông và nâng cấp bệnh xá quân dân y phục vụ dân sinh.\n\nÔng còn yêu cầu sớm cụ thể hóa chủ trương của Đảng về triển khai đầu tư xây dựng các dự án công trình trọng điểm. Điều này nhằm mục đích xây dựng đặc khu Thổ Châu thành điểm tựa chiến lược trong hệ thống phòng thủ Tây Nam, bảo vệ chủ quyền biển đảo của Tổ quốc."
   },
   {
     "chunk_id": 18,
@@ -1076,10 +1140,6 @@
         "label": "tên người"
       },
       {
-        "text": "Bộ Ngoại giao",
-        "label": "tên tổ chức"
-      },
-      {
         "text": "Winston Peters",
         "label": "tên người"
       },
@@ -1088,8 +1148,16 @@
         "label": "mốc thời gian"
       },
       {
+        "text": "New Zealand",
+        "label": "vị trí"
+      },
+      {
         "text": "3 triệu đô la",
         "label": "tiền tệ"
+      },
+      {
+        "text": "New Zealand",
+        "label": "vị trí"
       },
       {
         "text": "Bộ Ngoại giao",
@@ -1104,7 +1172,7 @@
         "label": "tên tổ chức"
       }
     ],
-    "summarize": "Chiều nay, đồng chí Lê Minh Trí, Bí thư Trung ương Đảng, Phó Trưởng ban thường trực Ban Nội chính Trung ương, đã chủ trì hội nghị lấy ý kiến góp ý dự thảo báo cáo tổng kết công tác phòng chống tham nhũng lãng phí tiêu cực nhiệm kỳ Đại hội 13 của Đảng. Ông khẳng định công tác phát hiện đấu tranh xử lý tham nhũng trong nhiệm kỳ qua đã được triển khai quyết liệt theo đúng tinh thần không có vùng cấm, không có ngoại lệ.\n\nĐặc biệt, chính sách hình sự tiếp tục được hoàn thiện góp phần nâng cao hiệu quả răn đe phòng ngừa tạo bước chuyển rõ rệt đồng thời củng cố hơn niềm tin của cán bộ đảng viên và nhân dân vào công cuộc đấu tranh với tham nhũng tiêu cực.\n\nSáng nay, đồng chí Lê Hoài Trung, Bí thư Trung ương Đảng, Bộ trưởng Bộ Ngoại giao, đã đồng chủ trì hội nghị Bộ trưởng Ngoại giao Việt Nam - New Zealand lần thứ ba cùng với Bộ trưởng Ngoại giao New Zealand Winston Peters. Hai bên nhất trí phấn đấu đạt kim ngạch thương mại hai chiều 3 tỷ đô la Mỹ vào năm 2026, chú trọng tăng cường kết nối doanh nghiệp, thực thi hiệu quả các hiệp định thương mại tự do, mở rộng hợp tác giáo dục, kết nối hàng không, du lịch, khoa học công nghệ, kinh tế xanh, kinh tế số, nông nghiệp và ứng phó biến đổi khí hậu.\n\nHai bên đã ký Chương trình hành động triển khai quan hệ đối tác chiến lược toàn diện giai đoạn 2025-. New Zealand cũng quyết định khoản viện trợ trị giá 3 triệu đô la New Zealand giúp Việt Nam khắc phục hậu quả bão lũ."
+    "summarize": "Chiều nay, đồng chí Lê Minh Trí, Bí thư Trung ương Đảng và Phó Trưởng ban thường trực Ban Nội chính Trung ương đã chủ trì hội nghị lấy ý kiến góp ý dự thảo báo cáo tổng kết công tác phòng chống tham nhũng lãng phí tiêu cực nhiệm kỳ Đại hội 13 của Đảng. Ông khẳng định rằng công tác phát hiện đấu tranh xử lý tham nhũng trong nhiệm kỳ qua được triển khai quyết liệt theo đúng tinh thần \"không có vùng cấm, không có ngoại lệ\".\n\nĐặc biệt, chính sách hình sự tiếp tục được hoàn thiện góp phần nâng cao hiệu quả răn đe phòng ngừa và tạo bước chuyển rõ rệt. Đồng chí Lê Minh Trí đề nghị chắt lọc những bài học kinh nghiệm và đề xuất giải pháp chiến lược cho công tác phòng chống tham nhũng lãng phí tiêu cực sắp tới.\n\nSáng nay, đồng chí Lê Hoài Trung, Bí thư Trung ương Đảng và Bộ trưởng Bộ Ngoại giao đã đồng chủ trì hội nghị Bộ trưởng Ngoại giao Việt Nam - New Zealand lần thứ ba cùng với Bộ trưởng Ngoại giao New Zealand Winston Peters. Hai bên nhất trí phấn đấu đạt kim ngạch thương mại hai chiều 3 tỷ đô la Mỹ vào năm 2026 và chú trọng tăng cường kết nối doanh nghiệp, thực thi hiệu quả các hiệp định thương mại tự do.\n\nHai bên đã ký Chương trình hành động triển khai quan hệ đối tác chiến lược toàn diện giai đoạn 2025- và New Zealand quyết định khoản viện trợ trị giá 3 triệu đô la giúp Việt Nam khắc phục hậu quả bão lũ. Chiều nay, Bộ trưởng Bộ Ngoại giao Lê Hoài Trung đã có buổi hội đàm với Bộ trưởng Bộ Ngoại giao và Kiều dân Palestine Vê-na-hin (phiên âm). Hai bên thống nhất tăng cường các hoạt động trao đổi đoàn cấp cao và nâng cao hiệu quả hợp tác kinh tế. Dịp này, hai Bộ trưởng đã ký Hiệp định miễn thị thực cho người mang hộ chiếu ngoại giao.\n\nĐồng chí Lê Minh Trí là Bí thư Trung ương Đảng, Phó Trưởng ban thường trực Ban Nội chính Trung ương và là một cán bộ đảng viên quan trọng của Đảng. Ông đang đảm nhiệm vai trò lãnh đạo trong công tác phòng chống tham nhũng lãng phí tiêu cực. Meanwhile, đồng chí Lê Hoài Trung cũng là Bí thư Trung ương Đảng và Bộ trưởng Bộ Ngoại giao, đóng góp vào sự thành công của cuộc hội nghị.\n\nBộ trưởng Ngoại giao New Zealand Winston Peters đã đến thăm Việt Nam cùng với đồng nhiệm Bộ trưởng Bộ Ngoại giao Lê Hoài Trung. Hai bên đã ký kết nhiều thỏa thuận quan trọng về hợp tác kinh tế và giáo dục."
   },
   {
     "chunk_id": 19,
@@ -1170,7 +1238,7 @@
         "label": "tên tổ chức"
       }
     ],
-    "summarize": "Phó Thủ tướng Hồ Quốc Dũng tiếp Bộ trưởng Bộ Ngoại giao và Kiều dân Palestine, đề nghị hai bên tăng cường trao đổi đoàn cấp cao, thúc đẩy giao lưu nhân dân, mở rộng hợp tác thương mại và hỗ trợ doanh nghiệp tìm hiểu thị trường. Việt Nam sẵn sàng hỗ trợ Palestine trong lĩnh vực nông sản, thủy sản, dệt may và da giày.\n\nTại lễ kỷ niệm 50 năm hợp tác Việt Nam - UNICEF và 35 năm Việt Nam phê chuẩn Công ước Quyền trẻ em, Phó Thủ tướng Lê Thành Long khẳng định bảo vệ quyền trẻ em là ưu tiên chiến lược quốc gia. Chính phủ Việt Nam tiếp tục xác định bảo vệ quyền trẻ em là ưu tiên chiến lược quốc gia và cam kết sẽ triển khai mạnh mẽ đồng bộ các chính sách nhằm bảo đảm mọi trẻ em đều được phát triển toàn diện, an toàn và bình đẳng.\n\nPhó Thủ tướng đã trao Bằng khen của Thủ tướng Chính phủ cho UNICEF tại Việt Nam về những đóng góp trong công tác chăm sóc giáo dục và bảo vệ trẻ em Việt Nam.\n\nSáng nay, làm việc với Mạng lưới Đổi mới sáng tạo và chuyên gia Việt Nam về phát triển các ngành công nghệ chiến lược, Phó Thủ tướng Nguyễn Chí Dũng nhấn mạnh phát triển các ngành công nghệ chiến lược là con đường nhanh nhất để Việt Nam hướng tới một quốc gia phát triển. Kêu gọi đội ngũ chuyên gia, nhà khoa học, doanh nhân tiếp tục chung sức biến khát vọng thành hiện thực, cùng nhau thực hiện sứ mệnh đưa đất nước bước vào kỷ nguyên thịnh vượng hùng cường.\n\nTại buổi làm việc, các nhà khoa học đã chia sẻ nhiều kinh nghiệm hình thành các nhóm nghiên cứu mạnh, phát triển sản phẩm mẫu cùng các cơ chế chính sách triển khai chương trình công nghệ trọng điểm.\n\nBộ Tài chính dự kiến trình Chính phủ trong dự thảo Luật Thuế thu nhập cá nhân sửa đổi mới nhất, đề xuất tính thuế trên phần lợi nhuận thay vì áp trên toàn bộ doanh thu như hiện nay. Đề xuất này được đánh giá là đã tiếp thu nhiều ý kiến của các đại biểu Quốc hội trong phiên thảo luận gần đây."
+    "summarize": "Phó Thủ tướng Hồ Quốc Dũng tiếp Bộ trưởng Bộ Ngoại giao và Kiều dân Palestine, đề nghị hai bên tăng cường trao đổi đoàn cấp cao, thúc đẩy giao lưu nhân dân và mở rộng hợp tác thương mại. Việt Nam sẵn sàng hỗ trợ Palestine trong lĩnh vực nông sản thủy sản, dệt may và da giày.\n\nVừa qua, tại lễ kỷ niệm 50 năm hợp tác Việt Nam - UNICEF và 35 năm Việt Nam phê chuẩn Công ước Quyền trẻ em, Phó Thủ tướng Lê Thành Long đã khẳng định bảo vệ quyền trẻ em là ưu tiên chiến lược quốc gia. Ông cũng cam kết sẽ triển khai mạnh mẽ đồng bộ các chính sách nhằm bảo đảm mọi trẻ em đều được phát triển toàn diện, an toàn và bình đẳng.\n\nPhó Thủ tướng Nguyễn Chí Dũng nhấn mạnh rằng phát triển các ngành công nghệ chiến lược là con đường nhanh nhất để Việt Nam hướng tới một quốc gia phát triển. Ông kêu gọi đội ngũ chuyên gia, nhà khoa học, doanh nhân tiếp tục chung sức biến khát vọng thành hiện thực và đưa đất nước bước vào kỷ nguyên thịnh vượng hùng cường.\n\nTại buổi làm việc với Mạng lưới Đổi mới sáng tạo và các chuyên gia Việt Nam về phát triển các ngành công nghệ chiến lược, Phó Thủ tướng Nguyễn Chí Dũng nhấn mạnh rằng phát triển các ngành công nghệ chiến lược là con đường nhanh nhất để Việt Nam hướng tới một quốc gia phát triển. Ông kêu gọi đội ngũ chuyên gia, nhà khoa học, doanh nhân tiếp tục chung sức biến khát vọng thành hiện thực và đưa đất nước bước vào kỷ nguyên thịnh vượng hùng cường.\n\nBộ Tài chính dự kiến trình Chính phủ trong dự thảo Luật Thuế thu nhập cá nhân sửa đổi mới nhất. Theo đó, các hộ kinh doanh có doanh thu vượt ngưỡng miễn thuế sẽ được tính thuế trên phần lợi nhuận thay vì áp trên toàn bộ doanh thu như hiện nay. Đề xuất này đã tiếp thu nhiều ý kiến của các đại biểu Quốc hội trong phiên thảo luận gần đây.\n\nUNICEF và Chính phủ Việt Nam luôn trân trọng sự đồng hành hỗ trợ của nhau trong suốt 50 năm qua trong khắc phục hậu quả chiến tranh, chăm sóc y tế, dinh dưỡng, giáo dục cho trẻ em."
   },
   {
     "chunk_id": 20,
@@ -1216,11 +1284,11 @@
         "label": "tiền tệ"
       },
       {
-        "text": "số còn lại",
-        "label": "phần trăm"
+        "text": "hộ kinh doanh",
+        "label": "tên tổ chức"
       }
     ],
-    "summarize": "Đại diện Bộ Tài chính cho biết Bộ đang nghiên cứu nâng ngưỡng doanh thu được miễn thuế cho hộ kinh doanh từ 200 triệu đồng lên một mức mới. Đồng thời, Bộ cũng xem xét cho phép hộ kinh doanh được khấu trừ chi phí khi chuyển từ thuế khoán sang kê khai từ năm sau.\n\nVới hộ kinh doanh có doanh thu dưới 3 tỷ đồng một năm, nếu xác định được chi phí đầu vào, mức thuế phải nộp sẽ là 15% trên phần lãi thu về. Tuy nhiên, dự thảo luật đang trình áp dụng theo tỷ lệ cho doanh thu. Đại diện Bộ Tài chính cũng kiến nghị áp dụng theo các phương pháp tính theo thu nhập, tức là doanh thu trừ chi phí và thu nhập nhiều thì nộp nhiều, thu nhập ít nộp ít, thậm chí trường hợp không có thu nhập thì cũng không phải nộp thuế.\n\nViệc cho phép hộ kinh doanh được tính chi phí đầu vào khi xác định thu nhập chịu thuế sẽ giúp phản ánh đúng hơn với hiệu quả kinh doanh thực tế. Điều này đặc biệt có ích với những hộ có chi phí cao như nguyên liệu, mặt bằng hay thuê nhân công. Số thuế phải nộp sẽ giảm đi đáng kể, giúp họ có thêm nguồn lực để tái đầu tư mở rộng hoạt động và ổn định kinh doanh.\n\nLà lấy doanh thu trừ đi các khoản chi phí hợp lý, số còn lại thì mới chịu thuế thu nhập cá nhân. Trường hợp hộ kinh doanh không xác định được chi phí thì có thể tiếp tục nộp thuế thu nhập cá nhân theo tỷ lệ trên doanh thu như hiện nay từ 0,5 đến 2% tùy từng ngành nghề."
+    "summarize": "Dại diện Bộ Tài chính cho biết, Bộ đang nghiên cứu nâng ngưỡng doanh thu miễn thuế cho hộ kinh doanh lên từ mức đề xuất cũ là 200 triệu đồng mỗi năm. Thay vào đó, sẽ áp dụng theo tỷ lệ trên phần lãi thu về hoặc tính theo thu nhập. Nếu xác định được chi phí đầu vào, mức thuế phải nộp sẽ là 15% trên phần lãi thu về.\n\nVới hộ kinh doanh có doanh thu dưới 3 tỷ đồng một năm, việc cho phép tính chi phí đầu vào khi xác định thu nhập chịu thuế sẽ giúp phản ánh đúng hơn hiệu quả kinh doanh thực tế. Điều này đặc biệt có ích với những hộ có chi phí cao như nguyên liệu, mặt bằng hay thuê nhân công.\n\nTrường hợp hộ kinh doanh không xác định được chi phí thì vẫn nộp thuế thu nhập cá nhân theo tỷ lệ trên doanh thu từ 0,5 đến 2% tùy từng ngành nghề. Việc này sẽ giúp họ giảm số thuế phải nộp đáng kể và có thêm nguồn lực để tái đầu tư mở rộng hoạt động và ổn định kinh doanh.\n\nTheo Bộ Tài chính, áp dụng theo phương pháp tính chi phí sẽ đảm bảo công bằng cho hộ kinh doanh. Điều này cũng phù hợp với nguyên tắc \"tính đúng tính đủ\" khi lấy doanh thu trừ đi các khoản chi phí hợp lý, số còn lại thì mới chịu thuế thu nhập cá nhân."
   },
   {
     "chunk_id": 21,
@@ -1228,16 +1296,7 @@
     "word_count": 58,
     "sentence_count": 2,
     "previous_text": "Đại diện Bộ Tài chính cũng cho biết là Bộ đang nghiên cứu nâng ngưỡng doanh thu được miễn thuế cho hộ kinh doanh thay vì mức đề xuất cũ là 200 triệu đồng mỗi năm, đồng thời xem xét cho phép hộ kinh doanh được khấu trừ chi phí khi chuyển từ thuế khoán sang kê khai từ năm sau . Với hộ kinh doanh có doanh thu dưới 3 tỷ đồng một năm, nếu xác định được chi phí đầu vào, mức thuế phải nộp sẽ là 15% trên phần lãi thu về, thuế suất này tương đương với mức áp dụng cho doanh nghiệp nhỏ và siêu nhỏ . Thì dự thảo luật đang trình thì áp dụng theo tỷ lệ cho doanh thu thôi, thế nhưng mà kỳ này chúng tôi cũng kiến nghị là sẽ áp dụng luôn theo các phương pháp là tính theo thu nhập, tức là doanh thu trừ chi phí và thu nhập nhiều thì nộp nhiều mà thu nhập ít nộp ít, thậm chí trường hợp mà không có thu nhập thì cũng không phải nộp thuế, nó đảm bảo công bằng . Việc cho phép hộ kinh doanh được tính chi phí đầu vào khi xác định thu nhập chịu thuế sẽ giúp phản ánh đúng hơn với hiệu quả kinh doanh thực tế . Điều này đặc biệt có ích với những hộ có chi phí cao như nguyên liệu, mặt bằng hay thuê nhân công vì số thuế phải nộp sẽ giảm đi đáng kể, giúp họ có thêm nguồn lực để tái đầu tư mở rộng hoạt động và ổn định kinh doanh . Là lấy doanh thu trừ đi các khoản chi phí hợp lý, số còn lại thì mới chịu thuế thu nhập cá nhân thì đó mới là cái gọi là tính đúng tính đủ . Trường hợp hộ kinh doanh không xác định được chi phí thì có thể tiếp tục nộp thuế thu nhập cá nhân theo tỷ lệ trên doanh thu như hiện nay từ 0,5 đến 2% tùy từng ngành nghề .",
-    "list_entity": [
-      {
-        "text": "300 triệu",
-        "label": "tiền tệ"
-      },
-      {
-        "text": "300 triệu",
-        "label": "tiền tệ"
-      }
-    ],
-    "summarize": "Điểm mới là doanh thu nằm trong ngưỡng miễn thuế sẽ được trừ ra. Ví dụ, nếu nâng lên 300 triệu, phần 300 triệu đầu tiên sẽ không tính thuế, còn phần vượt trên sẽ nộp thuế."
+    "list_entity": [],
+    "summarize": "[ENTITY INFO]\n- Doanh thu: 300 triệu\n- Thuế: (không có entity cụ thể)\n\n[TÓM TẮT]\nPhần doanh thu nằm trong ngưỡng miễn thuế sẽ không tính thuế. Ví dụ, nếu nâng lên 300 triệu, phần đầu tiên sẽ được trừ khỏi tổng doanh thu trước khi nộp thuế."
   }
 ]
