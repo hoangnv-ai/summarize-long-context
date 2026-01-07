@@ -9,6 +9,8 @@ import os
 
 def process_text(
     text_input,
+    summarize_size_input,
+    list_entity_input,
     similarity_threshold,
     min_chunk_size,
     max_chunk_size,
@@ -20,6 +22,8 @@ def process_text(
     if not text_input or not text_input.strip():
         return "Vui lòng nhập hoặc upload văn bản!", None, ""
     
+    list_ner = list_entity_input.split(",")
+    summarize_size_input = int(summarize_size_input)
     try:
         # Khởi tạo chunker
         progress(0.1, desc="Đang khởi tạo chunker...")
@@ -47,14 +51,16 @@ def process_text(
             progress_value = 0.2 + (i_chunk / total_chunks) * 0.7
             progress(progress_value, desc=f"Đang xử lý chunk {i_chunk + 1}/{total_chunks}...")
             
-            agent = Agent(system=system_prompt)
+            agent = Agent(system=system_prompt,
+                          max_length=summarize_size_input,                    
+                          )
             
             # Xử lý previous_text
             chunk['previous_text'] = previous_text
             previous_text = chunk['text']
             
             # Thực hiện trích xuất entity
-            list_entity_name = get_entity_name(chunk['text'])
+            list_entity_name = get_entity_name(chunk['text'], list_ner)
             chunk["list_entity"] = list_entity_name
             
             # Thực hiện tóm tắt
@@ -96,6 +102,7 @@ def process_text(
         error_msg = f"Lỗi: {str(e)}"
         return error_msg, None, ""
 
+# list_ner = list_entity_input.split(",")
 # Tạo Gradio Interface
 with gr.Blocks(title="Text Summarization & Entity Extraction", theme=gr.themes.Soft()) as demo:
     gr.Markdown(
@@ -114,7 +121,7 @@ with gr.Blocks(title="Text Summarization & Entity Extraction", theme=gr.themes.S
             gr.Markdown("### ⚙️ Cấu hình")
             
             text_input = gr.Textbox(
-                label="Văn bản đầu vào",
+                label="Văn bản đầu vào:",
                 placeholder="Nhập văn bản hoặc sử dụng file upload bên dưới...",
                 lines=10,
                 max_lines=20
@@ -124,7 +131,23 @@ with gr.Blocks(title="Text Summarization & Entity Extraction", theme=gr.themes.S
                 label="Hoặc upload file text",
                 file_types=[".txt"]
             )
-            
+
+            summarize_size_input = gr.Textbox(
+                label="Độ dài tối đa của văn bản tóm tắt(đơn vị %):", 
+                placeholder="Độ dài tối đa của văn bản tóm tắt: bằng bao nhiêu phần trăm so với ban đầu. Khoảng giá trị từ 10 đến 100",
+                lines=1,
+                max_lines=1
+            )
+
+            list_entity_input = gr.Textbox(
+                label="Các entity cần trích xuất:",
+                placeholder='''Nhập các loại thông tin cần trích xuất chính xác trong văn bản.Ngăn cách nhau bằng dấy phẩy.Ví dụ:
+tên sự kiện, tên người, tên tổ chức, mốc thời gian, vị trí, tiền tệ, phần trăm.
+                ''',
+                lines=5,
+                max_lines=10
+            )
+
             similarity_threshold = gr.Slider(
                 label="Ngưỡng similarity",
                 minimum=0.1,
@@ -186,8 +209,8 @@ with gr.Blocks(title="Text Summarization & Entity Extraction", theme=gr.themes.S
     file_input.change(fn=load_file, inputs=file_input, outputs=text_input)
     
     # Xử lý khi nhấn nút
-    def process_and_display(text, sim_thresh, min_size, max_size, progress=gr.Progress()):
-        summary, json_data, html = process_text(text, sim_thresh, min_size, max_size, progress)
+    def process_and_display(text, summarize_size_input, list_entity_input, sim_thresh, min_size, max_size, progress=gr.Progress()):
+        summary, json_data, html = process_text(text, summarize_size_input, list_entity_input, sim_thresh, min_size, max_size, progress)
         
         outputs = [summary, html]
         
@@ -207,7 +230,7 @@ with gr.Blocks(title="Text Summarization & Entity Extraction", theme=gr.themes.S
     
     process_btn.click(
         fn=process_and_display,
-        inputs=[text_input, similarity_threshold, min_chunk_size, max_chunk_size],
+        inputs=[text_input, summarize_size_input, list_entity_input, similarity_threshold, min_chunk_size, max_chunk_size],
         outputs=[summary_output, results_html, json_output, download_btn]
     )
     

@@ -1,4 +1,4 @@
-def generate_prompt(chunk):
+def generate_prompt(chunk, max_length):
     list_entity = chunk["list_entity"]
     chunk_current = chunk['text']
     # if chunk['previous_text']:
@@ -6,7 +6,7 @@ def generate_prompt(chunk):
     # else:
     #     chunk_previous_1 = "Đoạn văn hiện tại là đoạn văn đầu tiên. Nên không có thông tin đoạn văn liền trước."
 
-    max_len_sum = int(len(chunk_current)/5)
+    max_len_sum = int(len(chunk_current)*max_length/100)
     entity_info = "Các entity quan trọng đã xác định.\n"
     for entity in list_entity:
         entity_info += f"- {entity['label']}: {entity['text']}\n"

@@ -18,4 +18,4 @@ Nguyên tắc:
 - Không bỏ sót các entity quan trọng. Đây là những dữ liệu quan trọng không thể  sai.
 - Độ dài tóm tắt phải phù hợp với yêu cầu
 - Trả về kết quả ngay, không giải thích thêm.
-- Các thông tin về số liệu trong đoạn chunk này khi sinh ra phải tuyệt đối chính xác giống trong băn bản gốc
+- Các thông tin về số liệu trong đoạn chunk này khi sinh ra phải tuyệt đối chính xác giống trong băn bản gốc.
